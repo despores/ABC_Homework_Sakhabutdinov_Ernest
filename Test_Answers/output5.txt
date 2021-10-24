@@ -1,0 +1,1214 @@
+Tetrahedron with side = 3, density = 359.508057, square = 15.588457
+Tetrahedron with side = 5, density = 884.914673, square = 43.301270
+Tetrahedron with side = 6, density = 311.502441, square = 62.353828
+Sphere with radius = 3, density = 396.618561, square = 113.097336
+Tetrahedron with side = 9, density = 906.796448, square = 140.296112
+Sphere with radius = 4, density = 658.467346, square = 201.061935
+Tetrahedron with side = 11, density = 537.278381, square = 209.578140
+Tetrahedron with side = 13, density = 785.882141, square = 292.716583
+Sphere with radius = 6, density = 787.804810, square = 452.389343
+Tetrahedron with side = 18, density = 537.919250, square = 561.184448
+Tetrahedron with side = 18, density = 182.012390, square = 561.184448
+Sphere with radius = 7, density = 775.536377, square = 615.752136
+Tetrahedron with side = 20, density = 14.496292, square = 692.820312
+Tetrahedron with side = 26, density = 773.644226, square = 1170.866333
+Sphere with radius = 11, density = 591.570801, square = 1520.530884
+Tetrahedron with side = 32, density = 658.101135, square = 1773.619995
+Sphere with radius = 12, density = 360.423584, square = 1809.557373
+Tetrahedron with side = 35, density = 600.390625, square = 2121.762207
+Tetrahedron with side = 41, density = 461.653503, square = 2911.577393
+Tetrahedron with side = 42, density = 528.397461, square = 3055.337646
+Sphere with radius = 16, density = 926.908142, square = 3216.990967
+Tetrahedron with side = 45, density = 958.952576, square = 3507.402832
+Tetrahedron with side = 53, density = 720.633545, square = 4865.330566
+Sphere with radius = 20, density = 698.721252, square = 5026.548340
+Tetrahedron with side = 61, density = 157.628098, square = 6444.960938
+Sphere with radius = 24, density = 718.771912, square = 7238.229492
+Sphere with radius = 24, density = 871.669678, square = 7238.229492
+Tetrahedron with side = 67, density = 409.619446, square = 7775.176270
+Tetrahedron with side = 69, density = 287.453827, square = 8246.293945
+Tetrahedron with side = 74, density = 918.485046, square = 9484.709961
+Tetrahedron with side = 75, density = 362.376770, square = 9742.786133
+Tetrahedron with side = 76, density = 207.953125, square = 10004.325195
+Tetrahedron with side = 82, density = 37.141026, square = 11646.309570
+Sphere with radius = 31, density = 618.701721, square = 12076.282227
+Tetrahedron with side = 85, density = 400.128174, square = 12514.067383
+Tetrahedron with side = 86, density = 470.839569, square = 12810.248047
+Tetrahedron with side = 86, density = 262.550751, square = 12810.248047
+Tetrahedron with side = 86, density = 874.324768, square = 12810.248047
+Tetrahedron with side = 88, density = 469.649353, square = 13413.000977
+Tetrahedron with side = 91, density = 168.858917, square = 14343.112305
+Sphere with radius = 34, density = 732.993530, square = 14526.724609
+Sphere with radius = 34, density = 694.326599, square = 14526.724609
+Tetrahedron with side = 103, density = 416.974396, square = 18375.326172
+Tetrahedron with side = 103, density = 922.482971, square = 18375.326172
+Sphere with radius = 39, density = 609.576721, square = 19113.449219
+Sphere with radius = 39, density = 543.595703, square = 19113.449219
+Tetrahedron with side = 106, density = 607.623535, square = 19461.322266
+Tetrahedron with side = 106, density = 800.012207, square = 19461.322266
+Tetrahedron with side = 107, density = 377.697083, square = 19830.250000
+Tetrahedron with side = 107, density = 552.171387, square = 19830.250000
+Sphere with radius = 40, density = 495.773193, square = 20106.193359
+Sphere with radius = 41, density = 540.482788, square = 21124.068359
+Tetrahedron with side = 111, density = 729.819641, square = 21340.597656
+Sphere with radius = 42, density = 71.230202, square = 22167.078125
+Tetrahedron with side = 115, density = 272.408203, square = 22906.371094
+Sphere with radius = 44, density = 908.352905, square = 24328.494141
+Tetrahedron with side = 121, density = 919.156494, square = 25358.955078
+Tetrahedron with side = 123, density = 111.545151, square = 26204.197266
+Sphere with radius = 47, density = 247.505112, square = 27759.113281
+Tetrahedron with side = 127, density = 506.393616, square = 27936.248047
+Sphere with radius = 49, density = 787.469116, square = 30171.855469
+Sphere with radius = 49, density = 819.574585, square = 30171.855469
+Tetrahedron with side = 133, density = 350.291443, square = 30638.246094
+Tetrahedron with side = 134, density = 618.060852, square = 31100.705078
+Parallelepiped with sides a = 296, b = 52, c = 1, density = 146.549881, square = 31480.000000
+Tetrahedron with side = 137, density = 825.434143, square = 32508.861328
+Tetrahedron with side = 139, density = 629.078064, square = 33464.953125
+Sphere with radius = 52, density = 892.910522, square = 33979.464844
+Sphere with radius = 52, density = 389.385651, square = 33979.464844
+Sphere with radius = 53, density = 275.887329, square = 35298.933594
+Tetrahedron with side = 145, density = 662.343201, square = 36416.367188
+Sphere with radius = 54, density = 186.956390, square = 36643.535156
+Tetrahedron with side = 154, density = 968.993164, square = 41077.316406
+Tetrahedron with side = 157, density = 763.969849, square = 42693.320312
+Tetrahedron with side = 157, density = 828.302856, square = 42693.320312
+Parallelepiped with sides a = 98, b = 33, c = 140, density = 139.286484, square = 43148.000000
+Tetrahedron with side = 158, density = 301.553406, square = 43238.917969
+Sphere with radius = 59, density = 869.075623, square = 43743.535156
+Tetrahedron with side = 160, density = 539.902954, square = 44340.500000
+Tetrahedron with side = 166, density = 305.642883, square = 47728.390625
+Sphere with radius = 62, density = 168.919952, square = 48305.128906
+Tetrahedron with side = 168, density = 446.394226, square = 48885.402344
+Tetrahedron with side = 172, density = 590.594177, square = 51240.992188
+Tetrahedron with side = 173, density = 158.085876, square = 51838.546875
+Tetrahedron with side = 173, density = 232.276382, square = 51838.546875
+Tetrahedron with side = 178, density = 751.823486, square = 54878.296875
+Tetrahedron with side = 179, density = 841.242737, square = 55496.640625
+Sphere with radius = 67, density = 57.008575, square = 56410.437500
+Tetrahedron with side = 186, density = 147.831665, square = 59922.031250
+Sphere with radius = 70, density = 536.149170, square = 61575.214844
+Tetrahedron with side = 195, density = 539.994507, square = 65861.234375
+Tetrahedron with side = 196, density = 890.652161, square = 66538.460938
+Sphere with radius = 73, density = 963.988159, square = 66966.187500
+Tetrahedron with side = 202, density = 666.920959, square = 70674.601562
+Sphere with radius = 75, density = 605.059998, square = 70685.835938
+Tetrahedron with side = 205, density = 282.570892, square = 72789.437500
+Tetrahedron with side = 206, density = 438.184753, square = 73501.304688
+Tetrahedron with side = 207, density = 529.496155, square = 74216.648438
+Tetrahedron with side = 208, density = 473.433624, square = 74935.445312
+Tetrahedron with side = 210, density = 89.297157, square = 76383.437500
+Parallelepiped with sides a = 47, b = 110, c = 212, density = 323.801392, square = 76908.000000
+Tetrahedron with side = 211, density = 173.467209, square = 77112.632812
+Tetrahedron with side = 215, density = 217.139191, square = 80064.046875
+Sphere with radius = 81, density = 225.257126, square = 82447.960938
+Sphere with radius = 81, density = 701.071228, square = 82447.960938
+Sphere with radius = 82, density = 634.449280, square = 84496.273438
+Tetrahedron with side = 221, density = 888.393799, square = 84595.093750
+Sphere with radius = 83, density = 313.821838, square = 86569.726562
+Tetrahedron with side = 226, density = 856.349365, square = 88466.226562
+Tetrahedron with side = 226, density = 698.416077, square = 88466.226562
+Tetrahedron with side = 228, density = 648.976074, square = 90038.929688
+Tetrahedron with side = 229, density = 819.086304, square = 90830.476562
+Tetrahedron with side = 231, density = 706.106750, square = 92423.960938
+Tetrahedron with side = 232, density = 587.206665, square = 93225.906250
+Tetrahedron with side = 233, density = 136.051514, square = 94031.304688
+Tetrahedron with side = 234, density = 664.326904, square = 94840.171875
+Parallelepiped with sides a = 50, b = 121, c = 250, density = 907.559448, square = 97600.000000
+Tetrahedron with side = 239, density = 634.022034, square = 98936.476562
+Tetrahedron with side = 239, density = 705.893127, square = 98936.476562
+Sphere with radius = 89, density = 791.344971, square = 99538.218750
+Tetrahedron with side = 243, density = 444.685211, square = 102275.867188
+Tetrahedron with side = 245, density = 255.928223, square = 103966.351562
+Sphere with radius = 91, density = 688.009277, square = 104062.117188
+Sphere with radius = 92, density = 817.163635, square = 106361.757812
+Parallelepiped with sides a = 103, b = 121, c = 183, density = 473.342072, square = 106910.000000
+Tetrahedron with side = 250, density = 485.396881, square = 108253.171875
+Tetrahedron with side = 250, density = 910.031433, square = 108253.171875
+Tetrahedron with side = 251, density = 12.756737, square = 109120.929688
+Parallelepiped with sides a = 102, b = 12, c = 474, density = 400.341797, square = 110520.000000
+Tetrahedron with side = 253, density = 981.627869, square = 110866.843750
+Tetrahedron with side = 254, density = 635.181763, square = 111744.992188
+Sphere with radius = 95, density = 699.636841, square = 113411.492188
+Tetrahedron with side = 260, density = 181.402023, square = 117086.632812
+Parallelepiped with sides a = 116, b = 119, c = 191, density = 272.621857, square = 117378.000000
+Parallelepiped with sides a = 225, b = 33, c = 205, density = 510.605194, square = 120630.000000
+Parallelepiped with sides a = 176, b = 293, c = 21, density = 619.678345, square = 122834.000000
+Parallelepiped with sides a = 61, b = 755, c = 20, density = 368.938263, square = 124750.000000
+Sphere with radius = 101, density = 878.658386, square = 128189.546875
+Tetrahedron with side = 274, density = 325.479889, square = 130035.445312
+Sphere with radius = 102, density = 921.781067, square = 130740.523438
+Tetrahedron with side = 275, density = 6.469924, square = 130986.343750
+Parallelepiped with sides a = 69, b = 68, c = 444, density = 649.220276, square = 131040.000000
+Tetrahedron with side = 280, density = 578.386780, square = 135792.781250
+Parallelepiped with sides a = 68, b = 622, c = 40, density = 812.860474, square = 139792.000000
+Parallelepiped with sides a = 160, b = 32, c = 348, density = 862.727722, square = 143872.000000
+Tetrahedron with side = 289, density = 391.796631, square = 144662.609375
+Parallelepiped with sides a = 55, b = 17, c = 1000, density = 895.718262, square = 145870.000000
+Tetrahedron with side = 291, density = 929.837952, square = 146671.796875
+Tetrahedron with side = 291, density = 787.255493, square = 146671.796875
+Tetrahedron with side = 293, density = 947.294556, square = 148694.828125
+Sphere with radius = 109, density = 331.583618, square = 149301.046875
+Tetrahedron with side = 294, density = 68.880280, square = 149711.546875
+Tetrahedron with side = 294, density = 107.852409, square = 149711.546875
+Tetrahedron with side = 296, density = 89.083527, square = 151755.359375
+Parallelepiped with sides a = 147, b = 113, c = 231, density = 544.114502, square = 153342.000000
+Sphere with radius = 111, density = 662.953552, square = 154830.250000
+Sphere with radius = 112, density = 44.404430, square = 157632.546875
+Tetrahedron with side = 306, density = 335.154266, square = 162182.312500
+Tetrahedron with side = 306, density = 782.891296, square = 162182.312500
+Sphere with radius = 114, density = 5.645924, square = 163312.546875
+Sphere with radius = 115, density = 98.300117, square = 166190.250000
+Parallelepiped with sides a = 96, b = 4, c = 846, density = 541.825623, square = 169968.000000
+Sphere with radius = 117, density = 318.033386, square = 172021.046875
+Sphere with radius = 118, density = 576.281006, square = 174974.140625
+Sphere with radius = 118, density = 106.631676, square = 174974.140625
+Tetrahedron with side = 318, density = 921.658997, square = 175151.906250
+Parallelepiped with sides a = 459, b = 49, c = 129, density = 247.444077, square = 176046.000000
+Tetrahedron with side = 319, density = 111.545151, square = 176255.218750
+Tetrahedron with side = 319, density = 439.680176, square = 176255.218750
+Tetrahedron with side = 319, density = 586.657288, square = 176255.218750
+Parallelepiped with sides a = 181, b = 145, c = 192, density = 669.850769, square = 177674.000000
+Tetrahedron with side = 321, density = 24.262215, square = 178472.250000
+Parallelepiped with sides a = 62, b = 89, c = 559, density = 381.725525, square = 179854.000000
+Sphere with radius = 120, density = 658.406311, square = 180955.734375
+Sphere with radius = 120, density = 868.648315, square = 180955.734375
+Tetrahedron with side = 326, density = 458.510101, square = 184075.437500
+Tetrahedron with side = 328, density = 876.888306, square = 186340.953125
+Tetrahedron with side = 328, density = 718.741394, square = 186340.953125
+Tetrahedron with side = 329, density = 544.846924, square = 187478.906250
+Parallelepiped with sides a = 36, b = 72, c = 857, density = 658.650452, square = 190296.000000
+Tetrahedron with side = 336, density = 349.589539, square = 195541.609375
+Parallelepiped with sides a = 58, b = 910, c = 47, density = 349.406403, square = 196552.000000
+Tetrahedron with side = 337, density = 763.054321, square = 196707.281250
+Parallelepiped with sides a = 394, b = 51, c = 179, density = 518.265320, square = 199498.000000
+Tetrahedron with side = 342, density = 589.648132, square = 202587.593750
+Parallelepiped with sides a = 243, b = 24, c = 358, density = 559.038086, square = 202836.000000
+Parallelepiped with sides a = 472, b = 67, c = 131, density = 959.868164, square = 204466.000000
+Tetrahedron with side = 345, density = 738.303772, square = 206157.343750
+Tetrahedron with side = 347, density = 876.918823, square = 208554.500000
+Tetrahedron with side = 349, density = 449.049347, square = 210965.515625
+Parallelepiped with sides a = 127, b = 682, c = 24, density = 576.677734, square = 212060.000000
+Tetrahedron with side = 350, density = 692.403931, square = 212176.218750
+Sphere with radius = 131, density = 966.551697, square = 215651.484375
+Parallelepiped with sides a = 20, b = 135, c = 684, density = 146.702469, square = 217440.000000
+Parallelepiped with sides a = 238, b = 138, c = 202, density = 983.397949, square = 217592.000000
+Tetrahedron with side = 356, density = 959.990234, square = 219513.187500
+Parallelepiped with sides a = 333, b = 104, c = 172, density = 280.220947, square = 219592.000000
+Parallelepiped with sides a = 197, b = 26, c = 471, density = 156.559952, square = 220310.000000
+Tetrahedron with side = 357, density = 333.017975, square = 220748.140625
+Tetrahedron with side = 358, density = 144.932404, square = 221986.562500
+Tetrahedron with side = 359, density = 525.650818, square = 223228.437500
+Sphere with radius = 134, density = 57.679981, square = 225641.750000
+Parallelepiped with sides a = 829, b = 127, c = 8, density = 870.174255, square = 225862.000000
+Parallelepiped with sides a = 581, b = 98, c = 83, density = 823.328369, square = 226590.000000
+Sphere with radius = 135, density = 633.289612, square = 229022.109375
+Tetrahedron with side = 366, density = 676.107056, square = 232018.593750
+Parallelepiped with sides a = 120, b = 7, c = 909, density = 44.831692, square = 232566.000000
+Tetrahedron with side = 369, density = 565.416443, square = 235837.765625
+Sphere with radius = 137, density = 736.197998, square = 235858.203125
+Parallelepiped with sides a = 79, b = 185, c = 392, density = 396.252319, square = 236206.000000
+Parallelepiped with sides a = 83, b = 72, c = 724, density = 551.225342, square = 236392.000000
+Parallelepiped with sides a = 175, b = 507, c = 44, density = 522.080139, square = 237466.000000
+Parallelepiped with sides a = 527, b = 28, c = 188, density = 10.376293, square = 238192.000000
+Tetrahedron with side = 372, density = 531.846069, square = 239688.125000
+Tetrahedron with side = 372, density = 478.988007, square = 239688.125000
+Tetrahedron with side = 373, density = 157.444992, square = 240978.500000
+Sphere with radius = 139, density = 223.090302, square = 242794.843750
+Tetrahedron with side = 375, density = 802.972473, square = 243569.640625
+Tetrahedron with side = 375, density = 624.683350, square = 243569.640625
+Sphere with radius = 140, density = 188.299210, square = 246300.859375
+Tetrahedron with side = 378, density = 81.392868, square = 247482.343750
+Parallelepiped with sides a = 943, b = 24, c = 105, density = 228.156372, square = 248334.000000
+Parallelepiped with sides a = 944, b = 30, c = 100, density = 751.182617, square = 251440.000000
+Tetrahedron with side = 383, density = 931.852173, square = 254072.796875
+Tetrahedron with side = 384, density = 155.644394, square = 255401.281250
+Parallelepiped with sides a = 964, b = 84, c = 45, density = 980.895386, square = 256272.000000
+Tetrahedron with side = 385, density = 332.895905, square = 256733.234375
+Tetrahedron with side = 387, density = 642.750305, square = 259407.515625
+Sphere with radius = 144, density = 543.351562, square = 260576.265625
+Parallelepiped with sides a = 2, b = 132, c = 972, density = 224.738297, square = 261024.000000
+Parallelepiped with sides a = 109, b = 331, c = 220, density = 279.244354, square = 265758.000000
+Tetrahedron with side = 392, density = 636.829712, square = 266153.843750
+Parallelepiped with sides a = 154, b = 244, c = 241, density = 694.174011, square = 266988.000000
+Sphere with radius = 148, density = 986.785461, square = 275253.781250
+Tetrahedron with side = 400, density = 514.114807, square = 277128.125000
+Tetrahedron with side = 400, density = 591.113037, square = 277128.125000
+Tetrahedron with side = 404, density = 365.276031, square = 282698.406250
+Parallelepiped with sides a = 112, b = 379, c = 205, density = 831.873535, square = 286206.000000
+Sphere with radius = 151, density = 970.549622, square = 286525.812500
+Tetrahedron with side = 407, density = 740.409546, square = 286912.468750
+Tetrahedron with side = 408, density = 197.790466, square = 288324.093750
+Tetrahedron with side = 408, density = 774.315613, square = 288324.093750
+Sphere with radius = 153, density = 385.601379, square = 294166.156250
+Tetrahedron with side = 413, density = 612.750610, square = 295434.187500
+Parallelepiped with sides a = 21, b = 383, c = 346, density = 940.916138, square = 295654.000000
+Tetrahedron with side = 414, density = 316.629547, square = 296866.593750
+Parallelepiped with sides a = 700, b = 145, c = 56, density = 482.955414, square = 297640.000000
+Tetrahedron with side = 415, density = 233.741257, square = 298302.437500
+Parallelepiped with sides a = 96, b = 91, c = 762, density = 183.416245, square = 302460.000000
+Tetrahedron with side = 420, density = 323.374115, square = 305533.750000
+Sphere with radius = 156, density = 938.718811, square = 305815.187500
+Sphere with radius = 156, density = 657.551819, square = 305815.187500
+Parallelepiped with sides a = 250, b = 110, c = 349, density = 999.328613, square = 306280.000000
+Tetrahedron with side = 421, density = 286.294128, square = 306990.406250
+Tetrahedron with side = 422, density = 451.277191, square = 308450.531250
+Parallelepiped with sides a = 453, b = 319, c = 13, density = 863.826416, square = 309086.000000
+Sphere with radius = 157, density = 835.688354, square = 309748.468750
+Parallelepiped with sides a = 569, b = 205, c = 51, density = 951.811279, square = 312238.000000
+Parallelepiped with sides a = 233, b = 377, c = 112, density = 639.515381, square = 312322.000000
+Tetrahedron with side = 426, density = 414.014099, square = 314325.656250
+Tetrahedron with side = 429, density = 498.489319, square = 318768.375000
+Tetrahedron with side = 430, density = 597.003113, square = 320256.187500
+Tetrahedron with side = 431, density = 113.986633, square = 321747.500000
+Tetrahedron with side = 432, density = 38.972137, square = 323242.250000
+Parallelepiped with sides a = 768, b = 88, c = 110, density = 507.919556, square = 323488.000000
+Sphere with radius = 161, density = 262.855927, square = 325732.906250
+Tetrahedron with side = 435, density = 827.082153, square = 327747.312500
+Sphere with radius = 162, density = 590.319519, square = 329791.843750
+Parallelepiped with sides a = 110, b = 370, c = 264, density = 937.620178, square = 334840.000000
+Parallelepiped with sides a = 223, b = 66, c = 537, density = 632.312988, square = 339822.000000
+Tetrahedron with side = 443, density = 774.620789, square = 339913.250000
+Tetrahedron with side = 444, density = 564.867065, square = 341449.562500
+Parallelepiped with sides a = 457, b = 220, c = 104, density = 311.349823, square = 341896.000000
+Tetrahedron with side = 445, density = 202.703934, square = 342989.375000
+Sphere with radius = 166, density = 176.458023, square = 346278.906250
+Tetrahedron with side = 449, density = 728.324219, square = 349183.187500
+Tetrahedron with side = 451, density = 591.265625, square = 352300.875000
+Tetrahedron with side = 452, density = 693.655212, square = 353864.906250
+Tetrahedron with side = 454, density = 874.385803, square = 357003.375000
+Parallelepiped with sides a = 778, b = 95, c = 120, density = 131.992554, square = 357340.000000
+Tetrahedron with side = 455, density = 929.349670, square = 358577.812500
+Sphere with radius = 169, density = 734.122742, square = 358908.125000
+Parallelepiped with sides a = 438, b = 4, c = 405, density = 218.207336, square = 361524.000000
+Tetrahedron with side = 457, density = 27.985474, square = 361737.093750
+Tetrahedron with side = 458, density = 911.008057, square = 363321.906250
+Tetrahedron with side = 458, density = 484.145630, square = 363321.906250
+Parallelepiped with sides a = 558, b = 137, c = 156, density = 551.377930, square = 369732.000000
+Tetrahedron with side = 465, density = 425.061798, square = 374512.687500
+Tetrahedron with side = 465, density = 801.263489, square = 374512.687500
+Tetrahedron with side = 466, density = 972.746948, square = 376125.218750
+Parallelepiped with sides a = 65, b = 605, c = 222, density = 11.169774, square = 376130.000000
+Tetrahedron with side = 467, density = 891.872925, square = 377741.218750
+Tetrahedron with side = 470, density = 601.489319, square = 382610.031250
+Parallelepiped with sides a = 688, b = 123, c = 132, density = 911.435303, square = 383352.000000
+Tetrahedron with side = 471, density = 354.991302, square = 384239.875000
+Tetrahedron with side = 473, density = 740.806274, square = 387510.000000
+Sphere with radius = 176, density = 75.167091, square = 389255.906250
+Tetrahedron with side = 477, density = 587.755981, square = 394091.781250
+Parallelepiped with sides a = 206, b = 113, c = 549, density = 877.742859, square = 396818.000000
+Parallelepiped with sides a = 236, b = 72, c = 592, density = 552.995361, square = 398656.000000
+Parallelepiped with sides a = 17, b = 199, c = 911, density = 434.675140, square = 400318.000000
+Tetrahedron with side = 482, density = 247.932373, square = 402396.968750
+Tetrahedron with side = 483, density = 521.195129, square = 404068.406250
+Tetrahedron with side = 484, density = 815.179932, square = 405743.281250
+Sphere with radius = 180, density = 515.549194, square = 407150.406250
+Parallelepiped with sides a = 301, b = 196, c = 291, density = 824.823730, square = 407246.000000
+Tetrahedron with side = 485, density = 961.333069, square = 407421.656250
+Tetrahedron with side = 488, density = 458.082825, square = 412477.500000
+Parallelepiped with sides a = 108, b = 178, c = 659, density = 495.773193, square = 415396.000000
+Parallelepiped with sides a = 88, b = 134, c = 883, density = 952.482666, square = 415636.000000
+Tetrahedron with side = 490, density = 175.603500, square = 415865.406250
+Tetrahedron with side = 491, density = 862.636169, square = 417564.531250
+Tetrahedron with side = 491, density = 804.010132, square = 417564.531250
+Sphere with radius = 183, density = 634.632385, square = 420835.187500
+Tetrahedron with side = 493, density = 368.297363, square = 420973.218750
+Parallelepiped with sides a = 127, b = 793, c = 121, density = 268.684967, square = 424062.000000
+Sphere with radius = 184, density = 273.751038, square = 425447.031250
+Parallelepiped with sides a = 322, b = 201, c = 285, density = 917.752625, square = 427554.000000
+Tetrahedron with side = 497, density = 903.958252, square = 427832.125000
+Tetrahedron with side = 500, density = 841.608948, square = 433012.687500
+Tetrahedron with side = 501, density = 775.780518, square = 434746.500000
+Tetrahedron with side = 501, density = 0.640889, square = 434746.500000
+Tetrahedron with side = 502, density = 498.672455, square = 436483.718750
+Tetrahedron with side = 504, density = 224.036377, square = 439968.625000
+Parallelepiped with sides a = 496, b = 273, c = 110, density = 150.791962, square = 439996.000000
+Parallelepiped with sides a = 99, b = 678, c = 197, density = 548.142944, square = 440382.000000
+Tetrahedron with side = 510, density = 463.637207, square = 450506.406250
+Tetrahedron with side = 511, density = 207.037567, square = 452274.843750
+Tetrahedron with side = 511, density = 163.670761, square = 452274.843750
+Sphere with radius = 190, density = 585.650208, square = 453645.968750
+Tetrahedron with side = 512, density = 956.511108, square = 454046.718750
+Tetrahedron with side = 512, density = 879.879150, square = 454046.718750
+Parallelepiped with sides a = 173, b = 209, c = 500, density = 72.756126, square = 454314.000000
+Tetrahedron with side = 514, density = 303.750732, square = 457600.906250
+Sphere with radius = 191, density = 460.493774, square = 458433.781250
+Tetrahedron with side = 516, density = 663.075684, square = 461168.906250
+Tetrahedron with side = 517, density = 164.799957, square = 462958.125000
+Tetrahedron with side = 517, density = 37.354656, square = 462958.125000
+Parallelepiped with sides a = 15, b = 615, c = 354, density = 682.882141, square = 464490.000000
+Parallelepiped with sides a = 708, b = 252, c = 57, density = 387.310394, square = 466272.000000
+Parallelepiped with sides a = 202, b = 63, c = 837, density = 422.833954, square = 469062.000000
+Tetrahedron with side = 524, density = 994.903381, square = 475579.593750
+Tetrahedron with side = 530, density = 271.858887, square = 486533.062500
+Parallelepiped with sides a = 235, b = 518, c = 162, density = 396.008179, square = 487432.000000
+Sphere with radius = 197, density = 216.284683, square = 487688.281250
+Sphere with radius = 198, density = 105.777153, square = 492652.000000
+Tetrahedron with side = 535, density = 36.652729, square = 495756.250000
+Tetrahedron with side = 536, density = 760.399170, square = 497611.281250
+Tetrahedron with side = 537, density = 494.766083, square = 499469.750000
+Tetrahedron with side = 538, density = 895.016357, square = 501331.718750
+Tetrahedron with side = 539, density = 397.198395, square = 503197.125000
+Parallelepiped with sides a = 65, b = 275, c = 688, density = 197.393723, square = 503590.000000
+Parallelepiped with sides a = 563, b = 411, c = 22, density = 731.284546, square = 505642.000000
+Tetrahedron with side = 542, density = 798.974548, square = 508814.187500
+Parallelepiped with sides a = 396, b = 624, c = 8, density = 753.410461, square = 510528.000000
+Parallelepiped with sides a = 69, b = 508, c = 383, density = 634.601868, square = 512086.000000
+Parallelepiped with sides a = 238, b = 401, c = 252, density = 957.640320, square = 512932.000000
+Tetrahedron with side = 545, density = 415.601074, square = 514462.406250
+Tetrahedron with side = 546, density = 461.958679, square = 516352.062500
+Sphere with radius = 203, density = 940.885620, square = 517847.562500
+Parallelepiped with sides a = 21, b = 524, c = 457, density = 541.459412, square = 520138.000000
+Sphere with radius = 204, density = 3.082370, square = 522962.093750
+Sphere with radius = 204, density = 607.867676, square = 522962.093750
+Parallelepiped with sides a = 291, b = 125, c = 546, density = 434.095276, square = 527022.000000
+Parallelepiped with sides a = 889, b = 140, c = 136, density = 999.694824, square = 528808.000000
+Tetrahedron with side = 553, density = 703.939941, square = 529676.750000
+Parallelepiped with sides a = 10, b = 324, c = 784, density = 619.708862, square = 530192.000000
+Tetrahedron with side = 554, density = 717.001892, square = 531594.125000
+Tetrahedron with side = 554, density = 52.125614, square = 531594.125000
+Tetrahedron with side = 554, density = 907.254272, square = 531594.125000
+Parallelepiped with sides a = 396, b = 174, c = 354, density = 936.399414, square = 541368.000000
+Parallelepiped with sides a = 75, b = 741, c = 265, density = 470.534393, square = 543630.000000
+Tetrahedron with side = 561, density = 639.667969, square = 545112.750000
+Parallelepiped with sides a = 189, b = 861, c = 106, density = 625.232727, square = 548058.000000
+Tetrahedron with side = 563, density = 312.997833, square = 549006.437500
+Parallelepiped with sides a = 483, b = 93, c = 399, density = 257.240509, square = 549486.000000
+Parallelepiped with sides a = 195, b = 352, c = 379, density = 977.629944, square = 551906.000000
+Parallelepiped with sides a = 139, b = 349, c = 467, density = 501.205475, square = 552814.000000
+Tetrahedron with side = 565, density = 929.960022, square = 552913.937500
+Parallelepiped with sides a = 547, b = 221, c = 205, density = 892.818970, square = 556654.000000
+Parallelepiped with sides a = 547, b = 15, c = 483, density = 844.569214, square = 559302.000000
+Tetrahedron with side = 569, density = 248.420670, square = 560770.500000
+Parallelepiped with sides a = 195, b = 239, c = 539, density = 900.265503, square = 561062.000000
+Tetrahedron with side = 571, density = 120.334480, square = 564719.562500
+Tetrahedron with side = 573, density = 4.211555, square = 568682.500000
+Parallelepiped with sides a = 604, b = 31, c = 419, density = 386.944183, square = 569578.000000
+Sphere with radius = 213, density = 251.106293, square = 570123.687500
+Parallelepiped with sides a = 21, b = 416, c = 634, density = 385.357208, square = 571588.000000
+Tetrahedron with side = 576, density = 611.957153, square = 574652.875000
+Tetrahedron with side = 577, density = 860.072632, square = 576649.937500
+Parallelepiped with sides a = 58, b = 232, c = 949, density = 308.297974, square = 577332.000000
+Tetrahedron with side = 578, density = 802.728333, square = 578650.437500
+Tetrahedron with side = 578, density = 653.859070, square = 578650.437500
+Tetrahedron with side = 579, density = 348.185669, square = 580654.437500
+Tetrahedron with side = 583, density = 771.324829, square = 588705.000000
+Tetrahedron with side = 583, density = 203.680527, square = 588705.000000
+Parallelepiped with sides a = 798, b = 209, c = 131, density = 33.326214, square = 597398.000000
+Parallelepiped with sides a = 207, b = 290, c = 482, density = 913.052795, square = 599168.000000
+Tetrahedron with side = 591, density = 657.856995, square = 604972.437500
+Parallelepiped with sides a = 234, b = 394, c = 336, density = 514.572571, square = 606408.000000
+Parallelepiped with sides a = 430, b = 337, c = 207, density = 250.831635, square = 607358.000000
+Tetrahedron with side = 594, density = 83.376572, square = 611129.875000
+Parallelepiped with sides a = 103, b = 284, c = 716, density = 369.640198, square = 612688.000000
+Parallelepiped with sides a = 680, b = 82, c = 329, density = 688.283936, square = 612916.000000
+Parallelepiped with sides a = 707, b = 138, c = 248, density = 360.057373, square = 614252.000000
+Tetrahedron with side = 596, density = 481.826233, square = 615252.187500
+Parallelepiped with sides a = 886, b = 123, c = 200, density = 265.297394, square = 621556.000000
+Parallelepiped with sides a = 922, b = 160, c = 154, density = 570.329895, square = 628296.000000
+Parallelepiped with sides a = 115, b = 198, c = 935, density = 764.397095, square = 630850.000000
+Tetrahedron with side = 604, density = 410.260315, square = 631879.875000
+Tetrahedron with side = 605, density = 67.384872, square = 633973.875000
+Parallelepiped with sides a = 267, b = 236, c = 506, density = 824.274414, square = 635060.000000
+Parallelepiped with sides a = 328, b = 500, c = 186, density = 306.436340, square = 636016.000000
+Sphere with radius = 225, density = 762.688049, square = 636172.500000
+Tetrahedron with side = 609, density = 528.977295, square = 642384.750000
+Parallelepiped with sides a = 509, b = 386, c = 144, density = 38.117619, square = 650708.000000
+Tetrahedron with side = 613, density = 382.183289, square = 650851.000000
+Parallelepiped with sides a = 312, b = 198, c = 518, density = 955.198853, square = 651912.000000
+Tetrahedron with side = 614, density = 216.376236, square = 652976.250000
+Tetrahedron with side = 614, density = 126.499222, square = 652976.250000
+Sphere with radius = 228, density = 960.325928, square = 653250.187500
+Parallelepiped with sides a = 363, b = 822, c = 24, density = 275.032806, square = 653652.000000
+Sphere with radius = 229, density = 862.666687, square = 658993.062500
+Tetrahedron with side = 620, density = 282.784515, square = 665800.312500
+Parallelepiped with sides a = 761, b = 224, c = 166, density = 921.445374, square = 667948.000000
+Parallelepiped with sides a = 406, b = 70, c = 642, density = 731.650757, square = 668024.000000
+Parallelepiped with sides a = 556, b = 573, c = 14, density = 859.706421, square = 668788.000000
+Tetrahedron with side = 622, density = 810.846252, square = 670102.750000
+Sphere with radius = 232, density = 189.703049, square = 676372.312500
+Parallelepiped with sides a = 688, b = 370, c = 80, density = 681.051086, square = 678400.000000
+Tetrahedron with side = 626, density = 392.712189, square = 678749.125000
+Sphere with radius = 233, density = 621.387390, square = 682215.687500
+Sphere with radius = 233, density = 101.718193, square = 682215.687500
+Sphere with radius = 233, density = 295.449677, square = 682215.687500
+Parallelepiped with sides a = 300, b = 606, c = 178, density = 569.200745, square = 686136.000000
+Sphere with radius = 234, density = 567.247559, square = 688084.187500
+Parallelepiped with sides a = 413, b = 664, c = 66, density = 225.623337, square = 690628.000000
+Parallelepiped with sides a = 309, b = 676, c = 139, density = 957.670837, square = 691598.000000
+Parallelepiped with sides a = 652, b = 207, c = 246, density = 110.507523, square = 692556.000000
+Parallelepiped with sides a = 628, b = 136, c = 342, density = 766.960632, square = 693392.000000
+Tetrahedron with side = 634, density = 530.564270, square = 696208.187500
+Parallelepiped with sides a = 766, b = 187, c = 216, density = 427.747437, square = 698180.000000
+Tetrahedron with side = 639, density = 994.201477, square = 707232.687500
+Parallelepiped with sides a = 280, b = 955, c = 70, density = 636.280396, square = 707700.000000
+Tetrahedron with side = 642, density = 316.110718, square = 713889.000000
+Tetrahedron with side = 643, density = 451.246674, square = 716114.687500
+Parallelepiped with sides a = 468, b = 562, c = 93, density = 108.767967, square = 717612.000000
+Parallelepiped with sides a = 605, b = 90, c = 438, density = 247.871338, square = 717720.000000
+Parallelepiped with sides a = 276, b = 307, c = 473, density = 549.058533, square = 720982.000000
+Parallelepiped with sides a = 375, b = 406, c = 267, density = 540.147095, square = 721554.000000
+Tetrahedron with side = 646, density = 685.384705, square = 722812.500000
+Tetrahedron with side = 646, density = 897.671448, square = 722812.500000
+Tetrahedron with side = 647, density = 274.880219, square = 725052.062500
+Parallelepiped with sides a = 580, b = 432, c = 113, density = 147.038177, square = 729832.000000
+Parallelepiped with sides a = 50, b = 364, c = 838, density = 207.922607, square = 730264.000000
+Parallelepiped with sides a = 725, b = 22, c = 470, density = 414.532928, square = 734080.000000
+Sphere with radius = 242, density = 372.661530, square = 735936.937500
+Tetrahedron with side = 656, density = 242.530594, square = 745363.812500
+Sphere with radius = 244, density = 445.448151, square = 748151.437500
+Parallelepiped with sides a = 125, b = 309, c = 773, density = 618.457581, square = 748214.000000
+Tetrahedron with side = 658, density = 797.235046, square = 749915.625000
+Parallelepiped with sides a = 833, b = 27, c = 410, density = 662.709412, square = 750182.000000
+Parallelepiped with sides a = 236, b = 514, c = 343, density = 968.474365, square = 757108.000000
+Parallelepiped with sides a = 235, b = 239, c = 683, density = 102.420120, square = 759814.000000
+Sphere with radius = 246, density = 241.157257, square = 760466.500000
+Sphere with radius = 246, density = 896.267578, square = 760466.500000
+Parallelepiped with sides a = 723, b = 328, c = 137, density = 685.476257, square = 762262.000000
+Tetrahedron with side = 664, density = 678.395935, square = 763654.250000
+Sphere with radius = 247, density = 926.786072, square = 766661.687500
+Tetrahedron with side = 666, density = 936.796143, square = 768261.500000
+Tetrahedron with side = 666, density = 274.117249, square = 768261.500000
+Tetrahedron with side = 668, density = 515.701782, square = 772882.625000
+Tetrahedron with side = 668, density = 109.897156, square = 772882.625000
+Sphere with radius = 249, density = 251.136810, square = 779127.562500
+Parallelepiped with sides a = 696, b = 130, c = 363, density = 238.715775, square = 780636.000000
+Sphere with radius = 250, density = 847.926270, square = 785398.187500
+Tetrahedron with side = 675, density = 387.005219, square = 789165.625000
+Sphere with radius = 251, density = 171.025726, square = 791693.937500
+Tetrahedron with side = 677, density = 208.624527, square = 793849.125000
+Tetrahedron with side = 677, density = 886.654236, square = 793849.125000
+Parallelepiped with sides a = 111, b = 783, c = 349, density = 347.087006, square = 797838.000000
+Sphere with radius = 253, density = 465.742981, square = 804360.812500
+Tetrahedron with side = 682, density = 86.733604, square = 805618.375000
+Parallelepiped with sides a = 346, b = 774, c = 122, density = 808.465820, square = 808888.000000
+Tetrahedron with side = 684, density = 811.395630, square = 810350.375000
+Sphere with radius = 254, density = 989.776306, square = 810731.937500
+Parallelepiped with sides a = 252, b = 458, c = 412, density = 947.080933, square = 815872.000000
+Tetrahedron with side = 687, density = 568.193604, square = 817474.312500
+Parallelepiped with sides a = 254, b = 146, c = 933, density = 447.370819, square = 820568.000000
+Parallelepiped with sides a = 608, b = 55, c = 569, density = 992.034668, square = 821374.000000
+Parallelepiped with sides a = 711, b = 504, c = 44, density = 131.992554, square = 823608.000000
+Tetrahedron with side = 690, density = 549.943542, square = 824629.375000
+Tetrahedron with side = 693, density = 306.009094, square = 831815.687500
+Parallelepiped with sides a = 957, b = 199, c = 196, density = 301.217682, square = 834038.000000
+Tetrahedron with side = 694, density = 165.593430, square = 834218.000000
+Tetrahedron with side = 694, density = 596.423218, square = 834218.000000
+Parallelepiped with sides a = 340, b = 187, c = 675, density = 553.483704, square = 838610.000000
+Tetrahedron with side = 696, density = 423.505371, square = 839033.125000
+Parallelepiped with sides a = 51, b = 644, c = 558, density = 693.716248, square = 841308.000000
+Tetrahedron with side = 697, density = 656.605713, square = 841445.875000
+Tetrahedron with side = 697, density = 278.725555, square = 841445.875000
+Parallelepiped with sides a = 305, b = 99, c = 978, density = 36.378063, square = 850614.000000
+Parallelepiped with sides a = 247, b = 344, c = 579, density = 815.729248, square = 854314.000000
+Tetrahedron with side = 703, density = 789.361267, square = 855995.125000
+Sphere with radius = 261, density = 432.569366, square = 856033.750000
+Sphere with radius = 261, density = 877.315613, square = 856033.750000
+Tetrahedron with side = 704, density = 782.006287, square = 858432.062500
+Tetrahedron with side = 705, density = 726.187927, square = 860872.562500
+Tetrahedron with side = 706, density = 675.740845, square = 863316.500000
+Parallelepiped with sides a = 489, b = 438, c = 235, density = 866.664612, square = 864054.000000
+Tetrahedron with side = 708, density = 372.417358, square = 868214.687500
+Parallelepiped with sides a = 755, b = 430, c = 93, density = 460.646393, square = 869710.000000
+Tetrahedron with side = 709, density = 153.477585, square = 870669.062500
+Parallelepiped with sides a = 8, b = 618, c = 689, density = 384.166992, square = 872516.000000
+Parallelepiped with sides a = 942, b = 455, c = 8, density = 977.996155, square = 879572.000000
+Tetrahedron with side = 713, density = 983.611572, square = 880520.937500
+Sphere with radius = 265, density = 576.067383, square = 882473.375000
+Sphere with radius = 265, density = 239.967041, square = 882473.375000
+Tetrahedron with side = 714, density = 489.669495, square = 882992.562500
+Sphere with radius = 266, density = 602.832092, square = 889146.125000
+Parallelepiped with sides a = 250, b = 230, c = 808, density = 604.754761, square = 890680.000000
+Tetrahedron with side = 720, density = 663.319824, square = 897895.125000
+Parallelepiped with sides a = 85, b = 585, c = 599, density = 364.665680, square = 902110.000000
+Tetrahedron with side = 723, density = 879.421387, square = 905393.187500
+Parallelepiped with sides a = 978, b = 108, c = 320, density = 415.753662, square = 906288.000000
+Parallelepiped with sides a = 61, b = 461, c = 815, density = 532.883667, square = 907102.000000
+Tetrahedron with side = 724, density = 79.439682, square = 907899.437500
+Parallelepiped with sides a = 591, b = 628, c = 68, density = 663.838623, square = 908080.000000
+Parallelepiped with sides a = 372, b = 654, c = 212, density = 311.410858, square = 921600.000000
+Parallelepiped with sides a = 630, b = 90, c = 564, density = 87.679680, square = 925560.000000
+Parallelepiped with sides a = 372, b = 688, c = 196, density = 485.396881, square = 927392.000000
+Tetrahedron with side = 732, density = 361.033966, square = 928074.375000
+Tetrahedron with side = 732, density = 506.851410, square = 928074.375000
+Parallelepiped with sides a = 602, b = 363, c = 255, density = 292.977692, square = 929202.000000
+Parallelepiped with sides a = 549, b = 274, c = 383, density = 72.450943, square = 931270.000000
+Parallelepiped with sides a = 394, b = 111, c = 838, density = 139.927368, square = 933848.000000
+Parallelepiped with sides a = 351, b = 91, c = 985, density = 616.687500, square = 934622.000000
+Sphere with radius = 273, density = 440.534698, square = 936559.062500
+Sphere with radius = 273, density = 679.219971, square = 936559.062500
+Sphere with radius = 273, density = 674.245422, square = 936559.062500
+Parallelepiped with sides a = 595, b = 542, c = 130, density = 334.849091, square = 940600.000000
+Tetrahedron with side = 737, density = 288.247314, square = 940796.312500
+Tetrahedron with side = 738, density = 932.676147, square = 943351.062500
+Parallelepiped with sides a = 396, b = 123, c = 820, density = 781.456970, square = 948576.000000
+Parallelepiped with sides a = 879, b = 411, c = 89, density = 747.459351, square = 952158.000000
+Tetrahedron with side = 743, density = 383.770264, square = 956176.937500
+Sphere with radius = 276, density = 439.466522, square = 957255.875000
+Sphere with radius = 276, density = 318.979462, square = 957255.875000
+Parallelepiped with sides a = 12, b = 589, c = 790, density = 426.007874, square = 963716.000000
+Parallelepiped with sides a = 712, b = 20, c = 639, density = 901.211609, square = 963976.000000
+Sphere with radius = 277, density = 982.207703, square = 964205.062500
+Parallelepiped with sides a = 872, b = 183, c = 308, density = 593.127258, square = 969032.000000
+Sphere with radius = 278, density = 390.240173, square = 971179.375000
+Tetrahedron with side = 749, density = 596.392700, square = 971682.250000
+Tetrahedron with side = 750, density = 998.382507, square = 974278.562500
+Parallelepiped with sides a = 123, b = 771, c = 440, density = 209.845276, square = 976386.000000
+Tetrahedron with side = 751, density = 199.682602, square = 976878.375000
+Sphere with radius = 279, density = 457.258820, square = 978178.875000
+Parallelepiped with sides a = 895, b = 397, c = 104, density = 383.068329, square = 979366.000000
+Parallelepiped with sides a = 836, b = 115, c = 416, density = 986.754944, square = 983512.000000
+Parallelepiped with sides a = 536, b = 367, c = 330, density = 0.366222, square = 989404.000000
+Parallelepiped with sides a = 667, b = 23, c = 696, density = 483.596313, square = 991162.000000
+Parallelepiped with sides a = 451, b = 323, c = 453, density = 658.345276, square = 992590.000000
+Tetrahedron with side = 759, density = 943.784912, square = 997801.562500
+Parallelepiped with sides a = 23, b = 519, c = 900, density = 964.476440, square = 999474.000000
+Tetrahedron with side = 760, density = 490.249329, square = 1000432.562500
+Parallelepiped with sides a = 547, b = 58, c = 778, density = 749.351501, square = 1004832.000000
+Tetrahedron with side = 762, density = 164.372696, square = 1005704.937500
+Parallelepiped with sides a = 637, b = 369, c = 267, density = 932.218384, square = 1007310.000000
+Parallelepiped with sides a = 77, b = 563, c = 721, density = 644.154175, square = 1009582.000000
+Tetrahedron with side = 767, density = 486.465027, square = 1018946.437500
+Tetrahedron with side = 770, density = 153.477585, square = 1026932.937500
+Parallelepiped with sides a = 144, b = 680, c = 505, density = 778.832336, square = 1028080.000000
+Parallelepiped with sides a = 587, b = 305, c = 377, density = 538.804260, square = 1030638.000000
+Tetrahedron with side = 773, density = 533.738220, square = 1034950.562500
+Sphere with radius = 287, density = 716.635620, square = 1035079.375000
+Tetrahedron with side = 774, density = 433.393341, square = 1037630.062500
+Sphere with radius = 288, density = 856.501953, square = 1042305.062500
+Parallelepiped with sides a = 560, b = 243, c = 482, density = 794.427307, square = 1046252.000000
+Parallelepiped with sides a = 733, b = 47, c = 627, density = 505.630676, square = 1047022.000000
+Tetrahedron with side = 778, density = 270.973846, square = 1048382.625000
+Tetrahedron with side = 779, density = 149.632248, square = 1051079.500000
+Tetrahedron with side = 780, density = 26.337473, square = 1053779.750000
+Parallelepiped with sides a = 87, b = 440, c = 930, density = 81.942200, square = 1056780.000000
+Sphere with radius = 290, density = 172.002319, square = 1056831.750000
+Tetrahedron with side = 782, density = 593.432434, square = 1059190.625000
+Tetrahedron with side = 783, density = 860.103149, square = 1061901.250000
+Sphere with radius = 291, density = 378.460022, square = 1064132.875000
+Parallelepiped with sides a = 123, b = 841, c = 445, density = 199.987793, square = 1064846.000000
+Parallelepiped with sides a = 443, b = 662, c = 217, density = 646.168396, square = 1066102.000000
+Parallelepiped with sides a = 163, b = 755, c = 448, density = 603.564575, square = 1068658.000000
+Tetrahedron with side = 787, density = 842.432922, square = 1072778.625000
+Parallelepiped with sides a = 774, b = 418, c = 179, density = 465.468292, square = 1073800.000000
+Tetrahedron with side = 788, density = 598.528992, square = 1075506.500000
+Parallelepiped with sides a = 534, b = 722, c = 122, density = 392.681671, square = 1077560.000000
+Parallelepiped with sides a = 609, b = 215, c = 496, density = 604.785278, square = 1079278.000000
+Tetrahedron with side = 791, density = 581.133484, square = 1083711.250000
+Tetrahedron with side = 792, density = 464.125488, square = 1086453.125000
+Parallelepiped with sides a = 528, b = 516, c = 260, density = 137.150177, square = 1087776.000000
+Sphere with radius = 295, density = 38.392284, square = 1093588.375000
+Parallelepiped with sides a = 633, b = 57, c = 743, density = 941.984314, square = 1097502.000000
+Tetrahedron with side = 797, density = 741.416687, square = 1100214.250000
+Tetrahedron with side = 799, density = 877.101990, square = 1105743.000000
+Tetrahedron with side = 800, density = 103.274635, square = 1108512.500000
+Tetrahedron with side = 803, density = 495.010223, square = 1116842.000000
+Parallelepiped with sides a = 704, b = 241, c = 415, density = 696.707031, square = 1123678.000000
+Tetrahedron with side = 806, density = 206.183044, square = 1125202.500000
+Parallelepiped with sides a = 499, b = 639, c = 215, density = 563.707397, square = 1127062.000000
+Parallelepiped with sides a = 273, b = 254, c = 939, density = 128.788116, square = 1128390.000000
+Parallelepiped with sides a = 988, b = 331, c = 181, density = 134.556107, square = 1131534.000000
+Tetrahedron with side = 810, density = 761.742004, square = 1136398.500000
+Tetrahedron with side = 811, density = 691.152710, square = 1139206.250000
+Parallelepiped with sides a = 953, b = 207, c = 322, density = 756.035034, square = 1141582.000000
+Tetrahedron with side = 813, density = 924.314087, square = 1144831.875000
+Tetrahedron with side = 813, density = 240.729996, square = 1144831.875000
+Sphere with radius = 302, density = 340.342407, square = 1146103.250000
+Tetrahedron with side = 815, density = 885.280945, square = 1150471.500000
+Tetrahedron with side = 815, density = 184.026611, square = 1150471.500000
+Tetrahedron with side = 816, density = 806.054871, square = 1153296.375000
+Tetrahedron with side = 818, density = 581.194519, square = 1158956.750000
+Parallelepiped with sides a = 418, b = 642, c = 294, density = 811.212524, square = 1159992.000000
+Parallelepiped with sides a = 907, b = 115, c = 466, density = 13.092441, square = 1161114.000000
+Tetrahedron with side = 819, density = 284.371460, square = 1161792.125000
+Tetrahedron with side = 820, density = 133.396408, square = 1164631.000000
+Tetrahedron with side = 821, density = 203.924683, square = 1167473.250000
+Parallelepiped with sides a = 710, b = 382, c = 287, density = 666.493713, square = 1169248.000000
+Parallelepiped with sides a = 611, b = 479, c = 268, density = 702.230896, square = 1169578.000000
+Parallelepiped with sides a = 413, b = 583, c = 346, density = 554.094055, square = 1170790.000000
+Parallelepiped with sides a = 683, b = 774, c = 39, density = 708.151489, square = 1170930.000000
+Parallelepiped with sides a = 745, b = 455, c = 206, density = 529.313049, square = 1172350.000000
+Parallelepiped with sides a = 989, b = 509, c = 56, density = 627.002808, square = 1174578.000000
+Parallelepiped with sides a = 417, b = 211, c = 796, density = 324.564362, square = 1175750.000000
+Sphere with radius = 306, density = 805.719177, square = 1176664.625000
+Tetrahedron with side = 825, density = 355.143890, square = 1178877.125000
+Tetrahedron with side = 826, density = 509.353912, square = 1181736.750000
+Tetrahedron with side = 826, density = 443.372894, square = 1181736.750000
+Sphere with radius = 307, density = 502.426208, square = 1184367.875000
+Tetrahedron with side = 827, density = 725.821716, square = 1184599.750000
+Tetrahedron with side = 829, density = 874.599426, square = 1190336.375000
+Tetrahedron with side = 829, density = 848.353516, square = 1190336.375000
+Parallelepiped with sides a = 569, b = 232, c = 579, density = 587.481323, square = 1191574.000000
+Parallelepiped with sides a = 2, b = 819, c = 724, density = 748.405396, square = 1192084.000000
+Tetrahedron with side = 831, density = 973.052185, square = 1196086.750000
+Sphere with radius = 309, density = 951.994385, square = 1199849.625000
+Tetrahedron with side = 833, density = 646.961853, square = 1201851.000000
+Parallelepiped with sides a = 855, b = 192, c = 420, density = 716.513550, square = 1207800.000000
+Parallelepiped with sides a = 868, b = 140, c = 479, density = 507.858521, square = 1208704.000000
+Parallelepiped with sides a = 302, b = 434, c = 652, density = 297.036652, square = 1221880.000000
+Sphere with radius = 312, density = 898.312317, square = 1223260.750000
+Parallelepiped with sides a = 653, b = 468, c = 276, density = 209.295944, square = 1230000.000000
+Tetrahedron with side = 843, density = 11.230811, square = 1230880.125000
+Parallelepiped with sides a = 492, b = 655, c = 256, density = 87.466049, square = 1231784.000000
+Parallelepiped with sides a = 459, b = 331, c = 588, density = 494.430359, square = 1232898.000000
+Parallelepiped with sides a = 193, b = 614, c = 619, density = 789.574890, square = 1236070.000000
+Parallelepiped with sides a = 81, b = 579, c = 866, density = 286.477234, square = 1236918.000000
+Parallelepiped with sides a = 790, b = 377, c = 275, density = 558.427673, square = 1237510.000000
+Sphere with radius = 314, density = 928.189941, square = 1238993.875000
+Parallelepiped with sides a = 888, b = 421, c = 188, density = 372.966705, square = 1239880.000000
+Tetrahedron with side = 847, density = 351.115448, square = 1242588.875000
+Parallelepiped with sides a = 552, b = 420, c = 405, density = 212.073120, square = 1251000.000000
+Tetrahedron with side = 850, density = 226.447342, square = 1251406.750000
+Tetrahedron with side = 852, density = 77.883240, square = 1257302.625000
+Parallelepiped with sides a = 435, b = 593, c = 361, density = 388.653229, square = 1258126.000000
+Parallelepiped with sides a = 646, b = 493, c = 273, density = 568.102051, square = 1258850.000000
+Tetrahedron with side = 853, density = 669.087830, square = 1260255.750000
+Parallelepiped with sides a = 247, b = 423, c = 785, density = 545.121643, square = 1260862.000000
+Parallelepiped with sides a = 509, b = 168, c = 805, density = 203.772095, square = 1260994.000000
+Tetrahedron with side = 857, density = 212.805573, square = 1272103.000000
+Parallelepiped with sides a = 177, b = 447, c = 895, density = 11.139256, square = 1275198.000000
+Tetrahedron with side = 859, density = 187.536240, square = 1278047.375000
+Parallelepiped with sides a = 684, b = 751, c = 91, density = 642.475647, square = 1288538.000000
+Tetrahedron with side = 864, density = 873.287170, square = 1292969.000000
+Tetrahedron with side = 864, density = 288.338867, square = 1292969.000000
+Tetrahedron with side = 864, density = 346.903900, square = 1292969.000000
+Sphere with radius = 321, density = 11.566515, square = 1294851.375000
+Tetrahedron with side = 865, density = 246.284378, square = 1295963.750000
+Parallelepiped with sides a = 740, b = 594, c = 159, density = 671.987061, square = 1303332.000000
+Parallelepiped with sides a = 204, b = 768, c = 511, density = 949.705505, square = 1306728.000000
+Tetrahedron with side = 869, density = 365.642273, square = 1307977.250000
+Parallelepiped with sides a = 811, b = 479, c = 206, density = 455.183563, square = 1308418.000000
+Parallelepiped with sides a = 420, b = 268, c = 789, density = 699.087524, square = 1310784.000000
+Sphere with radius = 323, density = 199.255356, square = 1311036.875000
+Parallelepiped with sides a = 202, b = 685, c = 584, density = 472.029785, square = 1312756.000000
+Parallelepiped with sides a = 857, b = 274, c = 378, density = 630.542908, square = 1324672.000000
+Parallelepiped with sides a = 283, b = 771, c = 422, density = 992.522949, square = 1325962.000000
+Tetrahedron with side = 877, density = 291.360199, square = 1332170.500000
+Parallelepiped with sides a = 554, b = 160, c = 811, density = 39.368877, square = 1335388.000000
+Sphere with radius = 326, density = 787.194458, square = 1335503.625000
+Parallelepiped with sides a = 133, b = 737, c = 655, density = 333.414703, square = 1335742.000000
+Parallelepiped with sides a = 722, b = 772, c = 76, density = 41.566212, square = 1341856.000000
+Tetrahedron with side = 883, density = 58.076725, square = 1350461.000000
+Tetrahedron with side = 884, density = 183.233124, square = 1353521.500000
+Tetrahedron with side = 886, density = 66.866051, square = 1359653.000000
+Parallelepiped with sides a = 937, b = 137, c = 517, density = 877.925964, square = 1367254.000000
+Parallelepiped with sides a = 926, b = 594, c = 88, density = 770.561829, square = 1367608.000000
+Tetrahedron with side = 889, density = 985.045959, square = 1368876.125000
+Tetrahedron with side = 889, density = 346.049377, square = 1368876.125000
+Tetrahedron with side = 889, density = 510.361023, square = 1368876.125000
+Tetrahedron with side = 891, density = 889.950256, square = 1375042.250000
+Parallelepiped with sides a = 788, b = 328, c = 386, density = 661.732849, square = 1378480.000000
+Parallelepiped with sides a = 369, b = 926, c = 270, density = 320.322266, square = 1382688.000000
+Tetrahedron with side = 894, density = 85.604416, square = 1384317.375000
+Tetrahedron with side = 894, density = 609.179993, square = 1384317.375000
+Tetrahedron with side = 894, density = 347.331146, square = 1384317.375000
+Parallelepiped with sides a = 299, b = 533, c = 642, density = 832.911133, square = 1387022.000000
+Tetrahedron with side = 895, density = 865.199768, square = 1387416.000000
+Tetrahedron with side = 895, density = 276.192505, square = 1387416.000000
+Parallelepiped with sides a = 171, b = 810, c = 566, density = 286.355164, square = 1387512.000000
+Parallelepiped with sides a = 488, b = 149, c = 977, density = 514.023254, square = 1390122.000000
+Parallelepiped with sides a = 434, b = 951, c = 206, density = 778.283020, square = 1396088.000000
+Tetrahedron with side = 899, density = 988.097778, square = 1399845.250000
+Tetrahedron with side = 899, density = 675.832397, square = 1399845.250000
+Tetrahedron with side = 900, density = 801.782288, square = 1402961.125000
+Parallelepiped with sides a = 295, b = 559, c = 632, density = 577.410217, square = 1409266.000000
+Parallelepiped with sides a = 61, b = 698, c = 875, density = 89.877014, square = 1413406.000000
+Tetrahedron with side = 905, density = 317.545105, square = 1418592.875000
+Tetrahedron with side = 906, density = 718.619324, square = 1421729.625000
+Parallelepiped with sides a = 805, b = 599, c = 166, density = 267.006439, square = 1430518.000000
+Parallelepiped with sides a = 442, b = 538, c = 488, density = 506.790375, square = 1432072.000000
+Tetrahedron with side = 911, density = 299.233978, square = 1437465.375000
+Tetrahedron with side = 911, density = 831.446289, square = 1437465.375000
+Parallelepiped with sides a = 128, b = 756, c = 710, density = 390.667450, square = 1448816.000000
+Parallelepiped with sides a = 613, b = 481, c = 393, density = 931.241821, square = 1449590.000000
+Tetrahedron with side = 915, density = 552.964844, square = 1450116.250000
+Parallelepiped with sides a = 797, b = 431, c = 315, density = 307.077240, square = 1460654.000000
+Sphere with radius = 341, density = 665.761292, square = 1461230.125000
+Parallelepiped with sides a = 659, b = 493, c = 357, density = 69.429611, square = 1472302.000000
+Tetrahedron with side = 922, density = 468.550690, square = 1472388.625000
+Parallelepiped with sides a = 95, b = 927, c = 635, density = 973.418396, square = 1474070.000000
+Sphere with radius = 343, density = 280.495605, square = 1478420.875000
+Tetrahedron with side = 925, density = 715.811646, square = 1481986.000000
+Parallelepiped with sides a = 757, b = 89, c = 798, density = 257.515198, square = 1484962.000000
+Parallelepiped with sides a = 116, b = 758, c = 749, density = 635.395386, square = 1485108.000000
+Tetrahedron with side = 928, density = 624.347656, square = 1491614.500000
+Tetrahedron with side = 928, density = 88.900421, square = 1491614.500000
+Parallelepiped with sides a = 460, b = 954, c = 218, density = 482.406067, square = 1494184.000000
+Tetrahedron with side = 933, density = 694.265564, square = 1507731.125000
+Parallelepiped with sides a = 598, b = 400, c = 516, density = 687.856689, square = 1508336.000000
+Tetrahedron with side = 934, density = 515.457642, square = 1510964.875000
+Parallelepiped with sides a = 567, b = 294, c = 685, density = 501.388580, square = 1512966.000000
+Tetrahedron with side = 935, density = 249.488815, square = 1514202.125000
+Parallelepiped with sides a = 168, b = 514, c = 984, density = 700.094604, square = 1514880.000000
+Tetrahedron with side = 937, density = 943.357666, square = 1520686.875000
+Parallelepiped with sides a = 813, b = 418, c = 345, density = 803.949097, square = 1529058.000000
+Sphere with radius = 349, density = 633.259094, square = 1530596.500000
+Parallelepiped with sides a = 219, b = 793, c = 587, density = 424.909210, square = 1535422.000000
+Tetrahedron with side = 943, density = 476.516022, square = 1540224.500000
+Parallelepiped with sides a = 532, b = 580, c = 416, density = 311.410858, square = 1542304.000000
+Tetrahedron with side = 945, density = 316.232788, square = 1546764.625000
+Parallelepiped with sides a = 700, b = 202, c = 706, density = 207.892090, square = 1556424.000000
+Tetrahedron with side = 948, density = 420.392456, square = 1556601.000000
+Parallelepiped with sides a = 614, b = 228, c = 760, density = 24.536882, square = 1559824.000000
+Parallelepiped with sides a = 540, b = 452, c = 541, density = 489.455841, square = 1561504.000000
+Parallelepiped with sides a = 962, b = 526, c = 187, density = 50.508133, square = 1568536.000000
+Parallelepiped with sides a = 250, b = 806, c = 552, density = 299.081390, square = 1568824.000000
+Parallelepiped with sides a = 233, b = 898, c = 510, density = 657.734924, square = 1572088.000000
+Tetrahedron with side = 953, density = 835.749390, square = 1573064.125000
+Tetrahedron with side = 953, density = 744.895752, square = 1573064.125000
+Parallelepiped with sides a = 338, b = 466, c = 784, density = 675.893433, square = 1575688.000000
+Tetrahedron with side = 955, density = 440.443115, square = 1579673.625000
+Parallelepiped with sides a = 517, b = 587, c = 441, density = 585.985901, square = 1580686.000000
+Sphere with radius = 355, density = 405.163727, square = 1583676.875000
+Parallelepiped with sides a = 155, b = 598, c = 929, density = 65.095978, square = 1584454.000000
+Parallelepiped with sides a = 594, b = 254, c = 758, density = 674.642151, square = 1587320.000000
+Parallelepiped with sides a = 648, b = 382, c = 531, density = 840.021973, square = 1588932.000000
+Tetrahedron with side = 958, density = 33.661915, square = 1589613.875000
+Tetrahedron with side = 959, density = 296.456787, square = 1592934.250000
+Tetrahedron with side = 961, density = 316.751617, square = 1599585.250000
+Tetrahedron with side = 961, density = 400.463867, square = 1599585.250000
+Parallelepiped with sides a = 530, b = 445, c = 580, density = 626.392395, square = 1602700.000000
+Parallelepiped with sides a = 886, b = 206, c = 569, density = 794.061096, square = 1607728.000000
+Parallelepiped with sides a = 791, b = 515, c = 304, density = 886.837341, square = 1608778.000000
+Parallelepiped with sides a = 400, b = 435, c = 756, density = 432.752472, square = 1610520.000000
+Parallelepiped with sides a = 940, b = 42, c = 782, density = 733.909119, square = 1614808.000000
+Tetrahedron with side = 967, density = 924.222534, square = 1619621.625000
+Tetrahedron with side = 968, density = 615.283691, square = 1622973.125000
+Parallelepiped with sides a = 839, b = 62, c = 844, density = 578.844543, square = 1624924.000000
+Parallelepiped with sides a = 449, b = 792, c = 371, density = 281.044952, square = 1632038.000000
+Parallelepiped with sides a = 68, b = 904, c = 778, density = 510.422058, square = 1635376.000000
+Tetrahedron with side = 974, density = 151.463364, square = 1643155.000000
+Sphere with radius = 362, density = 5.554368, square = 1646747.500000
+Sphere with radius = 363, density = 402.905365, square = 1655858.125000
+Parallelepiped with sides a = 464, b = 606, c = 512, density = 559.434814, square = 1658048.000000
+Parallelepiped with sides a = 123, b = 735, c = 861, density = 899.105835, square = 1658286.000000
+Parallelepiped with sides a = 676, b = 704, c = 256, density = 797.570740, square = 1658368.000000
+Parallelepiped with sides a = 976, b = 450, c = 274, density = 549.974060, square = 1659848.000000
+Parallelepiped with sides a = 199, b = 780, c = 690, density = 690.633850, square = 1661460.000000
+Parallelepiped with sides a = 665, b = 385, c = 550, density = 403.271576, square = 1667050.000000
+Sphere with radius = 365, density = 253.242584, square = 1674154.750000
+Parallelepiped with sides a = 486, b = 336, c = 822, density = 390.087585, square = 1677960.000000
+Tetrahedron with side = 985, density = 590.563660, square = 1680479.000000
+Sphere with radius = 366, density = 433.881653, square = 1683340.750000
+Tetrahedron with side = 986, density = 773.644226, square = 1683892.875000
+Parallelepiped with sides a = 813, b = 300, c = 538, density = 938.932434, square = 1685388.000000
+Parallelepiped with sides a = 784, b = 138, c = 797, density = 652.882446, square = 1686052.000000
+Tetrahedron with side = 987, density = 525.009949, square = 1687310.250000
+Parallelepiped with sides a = 419, b = 455, c = 748, density = 311.288788, square = 1688794.000000
+Tetrahedron with side = 989, density = 40.650654, square = 1694155.250000
+Parallelepiped with sides a = 898, b = 858, c = 44, density = 650.379944, square = 1695496.000000
+Tetrahedron with side = 990, density = 485.274811, square = 1697583.000000
+Parallelepiped with sides a = 723, b = 780, c = 190, density = 50.172428, square = 1699020.000000
+Sphere with radius = 368, density = 116.000854, square = 1701788.125000
+Sphere with radius = 368, density = 516.617310, square = 1701788.125000
+Tetrahedron with side = 994, density = 403.088470, square = 1711328.500000
+Tetrahedron with side = 996, density = 475.508911, square = 1718222.125000
+Tetrahedron with side = 997, density = 29.969177, square = 1721674.125000
+Parallelepiped with sides a = 611, b = 840, c = 240, density = 721.335510, square = 1722960.000000
+Tetrahedron with side = 998, density = 184.850616, square = 1725129.500000
+Parallelepiped with sides a = 599, b = 874, c = 231, density = 684.286011, square = 1727578.000000
+Tetrahedron with side = 999, density = 405.529968, square = 1728588.500000
+Parallelepiped with sides a = 650, b = 809, c = 233, density = 864.345215, square = 1731594.000000
+Parallelepiped with sides a = 562, b = 334, c = 765, density = 266.670746, square = 1746296.000000
+Parallelepiped with sides a = 747, b = 309, c = 618, density = 408.948029, square = 1766862.000000
+Sphere with radius = 375, density = 883.541382, square = 1767145.875000
+Sphere with radius = 375, density = 540.025024, square = 1767145.875000
+Parallelepiped with sides a = 802, b = 916, c = 87, density = 493.087555, square = 1768196.000000
+Parallelepiped with sides a = 728, b = 852, c = 167, density = 593.035706, square = 1768232.000000
+Parallelepiped with sides a = 451, b = 321, c = 958, density = 392.925812, square = 1768694.000000
+Parallelepiped with sides a = 259, b = 778, c = 659, density = 961.790833, square = 1769770.000000
+Parallelepiped with sides a = 454, b = 811, c = 410, density = 940.824585, square = 1773688.000000
+Parallelepiped with sides a = 803, b = 912, c = 92, density = 453.077789, square = 1780232.000000
+Parallelepiped with sides a = 220, b = 834, c = 672, density = 162.541580, square = 1783536.000000
+Parallelepiped with sides a = 546, b = 688, c = 424, density = 124.332405, square = 1797728.000000
+Sphere with radius = 379, density = 218.756683, square = 1805046.000000
+Parallelepiped with sides a = 606, b = 944, c = 214, density = 554.521301, square = 1807528.000000
+Parallelepiped with sides a = 653, b = 271, c = 790, density = 575.365479, square = 1813846.000000
+Parallelepiped with sides a = 957, b = 267, c = 536, density = 615.894043, square = 1823166.000000
+Sphere with radius = 381, density = 525.254089, square = 1824146.875000
+Parallelepiped with sides a = 501, b = 302, c = 948, density = 342.539764, square = 1825092.000000
+Parallelepiped with sides a = 421, b = 368, c = 963, density = 39.826656, square = 1829470.000000
+Parallelepiped with sides a = 463, b = 703, c = 506, density = 834.711731, square = 1830970.000000
+Sphere with radius = 382, density = 119.937744, square = 1833735.125000
+Sphere with radius = 382, density = 822.595886, square = 1833735.125000
+Parallelepiped with sides a = 50, b = 931, c = 888, density = 395.153656, square = 1835356.000000
+Parallelepiped with sides a = 544, b = 885, c = 308, density = 179.143646, square = 1843144.000000
+Parallelepiped with sides a = 463, b = 390, c = 872, density = 181.615646, square = 1848772.000000
+Parallelepiped with sides a = 607, b = 314, c = 799, density = 617.603088, square = 1852954.000000
+Sphere with radius = 385, density = 411.633667, square = 1862650.250000
+Parallelepiped with sides a = 307, b = 951, c = 513, density = 269.997253, square = 1874622.000000
+Parallelepiped with sides a = 559, b = 493, c = 631, density = 260.750153, square = 1878798.000000
+Sphere with radius = 387, density = 22.949919, square = 1882052.750000
+Parallelepiped with sides a = 503, b = 649, c = 540, density = 583.300293, square = 1897054.000000
+Parallelepiped with sides a = 978, b = 737, c = 134, density = 456.007568, square = 1901192.000000
+Parallelepiped with sides a = 422, b = 874, c = 450, density = 609.485168, square = 1904056.000000
+Parallelepiped with sides a = 725, b = 701, c = 312, density = 237.281418, square = 1906274.000000
+Sphere with radius = 390, density = 212.652969, square = 1911345.000000
+Parallelepiped with sides a = 296, b = 879, c = 597, density = 603.778198, square = 1923318.000000
+Parallelepiped with sides a = 340, b = 931, c = 509, density = 893.551453, square = 1926958.000000
+Parallelepiped with sides a = 860, b = 571, c = 331, density = 205.664230, square = 1929442.000000
+Sphere with radius = 392, density = 643.208130, square = 1930998.750000
+Sphere with radius = 392, density = 527.115723, square = 1930998.750000
+Parallelepiped with sides a = 852, b = 770, c = 192, density = 284.005249, square = 1934928.000000
+Sphere with radius = 394, density = 637.226501, square = 1950753.125000
+Parallelepiped with sides a = 753, b = 740, c = 282, density = 823.877686, square = 1956492.000000
+Sphere with radius = 395, density = 862.819275, square = 1960668.000000
+Parallelepiped with sides a = 640, b = 306, c = 832, density = 553.910950, square = 1965824.000000
+Parallelepiped with sides a = 801, b = 351, c = 614, density = 146.946625, square = 1976958.000000
+Parallelepiped with sides a = 757, b = 620, c = 385, density = 101.687675, square = 1998970.000000
+Sphere with radius = 400, density = 309.244049, square = 2010619.250000
+Parallelepiped with sides a = 437, b = 920, c = 446, density = 799.371338, square = 2014524.000000
+Parallelepiped with sides a = 589, b = 349, c = 855, density = 298.226868, square = 2015102.000000
+Parallelepiped with sides a = 134, b = 825, c = 946, density = 502.945038, square = 2035528.000000
+Sphere with radius = 403, density = 766.319763, square = 2040891.625000
+Sphere with radius = 403, density = 768.089844, square = 2040891.625000
+Parallelepiped with sides a = 627, b = 343, c = 836, density = 362.956635, square = 2051962.000000
+Parallelepiped with sides a = 966, b = 677, c = 227, density = 151.463364, square = 2053886.000000
+Parallelepiped with sides a = 973, b = 337, c = 538, density = 37.446213, square = 2065362.000000
+Parallelepiped with sides a = 678, b = 578, c = 516, density = 729.239807, square = 2079960.000000
+Sphere with radius = 408, density = 961.210999, square = 2091848.375000
+Sphere with radius = 408, density = 527.970215, square = 2091848.375000
+Parallelepiped with sides a = 532, b = 740, c = 518, density = 208.197266, square = 2105152.000000
+Parallelepiped with sides a = 786, b = 329, c = 713, density = 621.417908, square = 2107178.000000
+Parallelepiped with sides a = 744, b = 671, c = 393, density = 977.629944, square = 2110638.000000
+Parallelepiped with sides a = 757, b = 205, c = 943, density = 846.980164, square = 2124702.000000
+Parallelepiped with sides a = 816, b = 725, c = 311, density = 472.487549, square = 2141702.000000
+Parallelepiped with sides a = 870, b = 435, c = 531, density = 233.771790, square = 2142810.000000
+Sphere with radius = 413, density = 647.328125, square = 2143433.250000
+Parallelepiped with sides a = 786, b = 420, c = 620, density = 649.800110, square = 2155680.000000
+Parallelepiped with sides a = 541, b = 611, c = 650, density = 129.642624, square = 2158702.000000
+Parallelepiped with sides a = 934, b = 973, c = 91, density = 147.099213, square = 2164638.000000
+Parallelepiped with sides a = 891, b = 214, c = 810, density = 977.172180, square = 2171448.000000
+Sphere with radius = 416, density = 443.617065, square = 2174685.750000
+Parallelepiped with sides a = 993, b = 309, c = 600, density = 660.664673, square = 2176074.000000
+Parallelepiped with sides a = 513, b = 826, c = 499, density = 503.280731, square = 2183798.000000
+Sphere with radius = 417, density = 270.699188, square = 2185153.500000
+Sphere with radius = 417, density = 494.460876, square = 2185153.500000
+Parallelepiped with sides a = 914, b = 205, c = 810, density = 288.949249, square = 2187520.000000
+Parallelepiped with sides a = 480, b = 841, c = 527, density = 524.521606, square = 2199694.000000
+Sphere with radius = 419, density = 69.887390, square = 2206164.500000
+Sphere with radius = 419, density = 870.601501, square = 2206164.500000
+Sphere with radius = 422, density = 497.756897, square = 2237869.500000
+Parallelepiped with sides a = 705, b = 962, c = 266, density = 726.432068, square = 2243264.000000
+Parallelepiped with sides a = 966, b = 258, c = 716, density = 404.553375, square = 2251224.000000
+Parallelepiped with sides a = 682, b = 640, c = 523, density = 187.078461, square = 2255772.000000
+Sphere with radius = 424, density = 75.014496, square = 2259131.750000
+Parallelepiped with sides a = 847, b = 322, c = 735, density = 20.935698, square = 2263898.000000
+Parallelepiped with sides a = 417, b = 737, c = 718, density = 228.766754, square = 2271802.000000
+Parallelepiped with sides a = 504, b = 822, c = 554, density = 829.615173, square = 2297784.000000
+Sphere with radius = 428, density = 10.132145, square = 2301958.000000
+Parallelepiped with sides a = 384, b = 753, c = 761, density = 309.335602, square = 2308818.000000
+Parallelepiped with sides a = 890, b = 510, c = 501, density = 437.543884, square = 2310600.000000
+Sphere with radius = 429, density = 732.169556, square = 2312727.500000
+Parallelepiped with sides a = 843, b = 927, c = 214, density = 803.338745, square = 2320482.000000
+Parallelepiped with sides a = 667, b = 691, c = 515, density = 490.554535, square = 2320534.000000
+Parallelepiped with sides a = 683, b = 370, c = 863, density = 215.979492, square = 2322898.000000
+Sphere with radius = 431, density = 836.024048, square = 2334341.500000
+Parallelepiped with sides a = 746, b = 715, c = 441, density = 510.147400, square = 2355382.000000
+Parallelepiped with sides a = 439, b = 661, c = 807, density = 996.154663, square = 2355758.000000
+Sphere with radius = 433, density = 66.621902, square = 2356056.250000
+Sphere with radius = 434, density = 959.746094, square = 2366951.250000
+Parallelepiped with sides a = 567, b = 660, c = 663, density = 254.371780, square = 2375442.000000
+Sphere with radius = 435, density = 345.530579, square = 2377871.500000
+Parallelepiped with sides a = 333, b = 906, c = 717, density = 989.959412, square = 2380122.000000
+Parallelepiped with sides a = 683, b = 670, c = 543, density = 704.855469, square = 2384578.000000
+Parallelepiped with sides a = 928, b = 378, c = 653, density = 495.712158, square = 2407204.000000
+Sphere with radius = 438, density = 400.311279, square = 2410782.750000
+Parallelepiped with sides a = 544, b = 496, c = 903, density = 216.864532, square = 2417888.000000
+Parallelepiped with sides a = 526, b = 977, c = 465, density = 631.366943, square = 2425594.000000
+Parallelepiped with sides a = 166, b = 973, c = 931, density = 710.867615, square = 2443854.000000
+Parallelepiped with sides a = 498, b = 502, c = 992, density = 154.393143, square = 2483992.000000
+Parallelepiped with sides a = 527, b = 659, c = 758, density = 995.178101, square = 2492562.000000
+Parallelepiped with sides a = 308, b = 984, c = 732, density = 752.555908, square = 2497632.000000
+Parallelepiped with sides a = 637, b = 949, c = 408, density = 564.867065, square = 2503202.000000
+Parallelepiped with sides a = 501, b = 921, c = 556, density = 539.017944, square = 2504106.000000
+Sphere with radius = 447, density = 381.054108, square = 2510874.000000
+Parallelepiped with sides a = 569, b = 568, c = 825, density = 9.735405, square = 2522434.000000
+Parallelepiped with sides a = 635, b = 664, c = 647, density = 297.708069, square = 2524186.000000
+Sphere with radius = 452, density = 735.343506, square = 2567359.750000
+Sphere with radius = 454, density = 449.690247, square = 2590130.000000
+Parallelepiped with sides a = 810, b = 655, c = 529, density = 702.078308, square = 2611070.000000
+Parallelepiped with sides a = 684, b = 690, c = 607, density = 817.987610, square = 2611956.000000
+Sphere with radius = 456, density = 692.007202, square = 2613000.750000
+Sphere with radius = 456, density = 557.725769, square = 2613000.750000
+Sphere with radius = 456, density = 771.782593, square = 2613000.750000
+Parallelepiped with sides a = 630, b = 932, c = 461, density = 378.063293, square = 2614484.000000
+Parallelepiped with sides a = 810, b = 545, c = 639, density = 472.823273, square = 2614590.000000
+Parallelepiped with sides a = 550, b = 710, c = 732, density = 369.823303, square = 2625640.000000
+Parallelepiped with sides a = 638, b = 767, c = 592, density = 698.812805, square = 2642212.000000
+Parallelepiped with sides a = 464, b = 601, c = 986, density = 412.244019, square = 2657908.000000
+Sphere with radius = 462, density = 914.365051, square = 2682216.500000
+Parallelepiped with sides a = 884, b = 304, c = 906, density = 234.199036, square = 2690128.000000
+Sphere with radius = 463, density = 544.511230, square = 2693840.250000
+Parallelepiped with sides a = 966, b = 493, c = 601, density = 693.350037, square = 2706194.000000
+Sphere with radius = 465, density = 472.823273, square = 2717163.500000
+Sphere with radius = 466, density = 267.616821, square = 2728862.750000
+Sphere with radius = 467, density = 494.460876, square = 2740587.250000
+Parallelepiped with sides a = 970, b = 756, c = 375, density = 84.200569, square = 2761140.000000
+Parallelepiped with sides a = 657, b = 815, c = 578, density = 943.083008, square = 2772542.000000
+Parallelepiped with sides a = 383, b = 884, c = 831, density = 810.388489, square = 2782898.000000
+Parallelepiped with sides a = 595, b = 893, c = 587, density = 363.536499, square = 2809582.000000
+Sphere with radius = 473, density = 168.584244, square = 2811461.500000
+Parallelepiped with sides a = 457, b = 661, c = 999, density = 217.871643, square = 2837918.000000
+Sphere with radius = 476, density = 934.385193, square = 2847238.000000
+Parallelepiped with sides a = 746, b = 463, c = 901, density = 831.019043, square = 2869414.000000
+Sphere with radius = 478, density = 784.447754, square = 2871214.500000
+Sphere with radius = 478, density = 920.987549, square = 2871214.500000
+Parallelepiped with sides a = 506, b = 993, c = 627, density = 434.339417, square = 2884662.000000
+Parallelepiped with sides a = 452, b = 929, c = 745, density = 619.922485, square = 2897506.000000
+Parallelepiped with sides a = 857, b = 813, c = 451, density = 962.584290, square = 2899822.000000
+Parallelepiped with sides a = 496, b = 664, c = 968, density = 972.716431, square = 2904448.000000
+Sphere with radius = 485, density = 433.423859, square = 2955924.500000
+Sphere with radius = 486, density = 738.212219, square = 2968126.500000
+Parallelepiped with sides a = 493, b = 674, c = 995, density = 825.434143, square = 2986894.000000
+Sphere with radius = 488, density = 25.330362, square = 2992605.750000
+Sphere with radius = 489, density = 114.993744, square = 3004883.000000
+Sphere with radius = 489, density = 129.490036, square = 3004883.000000
+Parallelepiped with sides a = 588, b = 755, c = 800, density = 261.696228, square = 3036680.000000
+Parallelepiped with sides a = 931, b = 627, c = 600, density = 287.789551, square = 3037074.000000
+Sphere with radius = 492, density = 369.426544, square = 3041866.000000
+Sphere with radius = 492, density = 691.274780, square = 3041866.000000
+Sphere with radius = 492, density = 784.325684, square = 3041866.000000
+Parallelepiped with sides a = 596, b = 759, c = 804, density = 667.470337, square = 3083568.000000
+Sphere with radius = 497, density = 586.504700, square = 3104006.750000
+Sphere with radius = 502, density = 85.146645, square = 3166775.750000
+Sphere with radius = 503, density = 458.296448, square = 3179404.750000
+Sphere with radius = 503, density = 993.346985, square = 3179404.750000
+Sphere with radius = 503, density = 46.540726, square = 3179404.750000
+Parallelepiped with sides a = 606, b = 923, c = 679, density = 430.524628, square = 3195058.000000
+Parallelepiped with sides a = 962, b = 673, c = 582, density = 863.704346, square = 3197992.000000
+Parallelepiped with sides a = 615, b = 615, c = 993, density = 823.145264, square = 3199230.000000
+Sphere with radius = 506, density = 931.821655, square = 3217443.250000
+Parallelepiped with sides a = 692, b = 661, c = 855, density = 725.577576, square = 3228454.000000
+Parallelepiped with sides a = 756, b = 657, c = 798, density = 733.451355, square = 3248532.000000
+Sphere with radius = 511, density = 277.260651, square = 3281343.250000
+Sphere with radius = 512, density = 683.889282, square = 3294198.750000
+Parallelepiped with sides a = 920, b = 860, c = 483, density = 848.719727, square = 3301880.000000
+Sphere with radius = 513, density = 924.100464, square = 3307079.250000
+Sphere with radius = 513, density = 5.767998, square = 3307079.250000
+Parallelepiped with sides a = 726, b = 812, c = 696, density = 137.760559, square = 3319920.000000
+Sphere with radius = 515, density = 925.260193, square = 3332915.750000
+Parallelepiped with sides a = 533, b = 939, c = 795, density = 59.144871, square = 3341454.000000
+Sphere with radius = 518, density = 50.996429, square = 3371858.750000
+Sphere with radius = 521, density = 504.928741, square = 3411028.250000
+Parallelepiped with sides a = 688, b = 920, c = 669, density = 248.878448, square = 3417424.000000
+Sphere with radius = 522, density = 278.939178, square = 3424135.000000
+Parallelepiped with sides a = 959, b = 754, c = 581, density = 862.971863, square = 3436678.000000
+Sphere with radius = 524, density = 115.390488, square = 3450423.750000
+Sphere with radius = 525, density = 846.736023, square = 3463606.000000
+Parallelepiped with sides a = 520, b = 977, c = 829, density = 873.653381, square = 3498106.000000
+Sphere with radius = 529, density = 946.378967, square = 3516585.750000
+Parallelepiped with sides a = 850, b = 985, c = 504, density = 522.598938, square = 3524180.000000
+Parallelepiped with sides a = 576, b = 903, c = 840, density = 132.969147, square = 3524976.000000
+Parallelepiped with sides a = 969, b = 585, c = 771, density = 152.958771, square = 3529998.000000
+Sphere with radius = 531, density = 573.107117, square = 3543226.500000
+Parallelepiped with sides a = 620, b = 761, c = 946, density = 887.936035, square = 3556492.000000
+Parallelepiped with sides a = 887, b = 767, c = 689, density = 860.866089, square = 3639870.000000
+Sphere with radius = 539, density = 551.805176, square = 3650794.500000
+Parallelepiped with sides a = 858, b = 960, c = 551, density = 192.999054, square = 3650796.000000
+Parallelepiped with sides a = 974, b = 909, c = 515, density = 416.364014, square = 3710222.000000
+Parallelepiped with sides a = 972, b = 655, c = 754, density = 617.999817, square = 3726836.000000
+Parallelepiped with sides a = 814, b = 861, c = 696, density = 215.216522, square = 3733308.000000
+Sphere with radius = 546, density = 789.880066, square = 3746236.250000
+Sphere with radius = 547, density = 107.516708, square = 3759971.250000
+Parallelepiped with sides a = 642, b = 810, c = 941, density = 534.745300, square = 3772704.000000
+Sphere with radius = 549, density = 782.738708, square = 3787516.750000
+Sphere with radius = 549, density = 552.507080, square = 3787516.750000
+Sphere with radius = 550, density = 620.136108, square = 3801327.000000
+Sphere with radius = 551, density = 820.368042, square = 3815162.750000
+Sphere with radius = 553, density = 721.579651, square = 3842909.250000
+Sphere with radius = 554, density = 73.274940, square = 3856820.250000
+Sphere with radius = 554, density = 643.574341, square = 3856820.250000
+Parallelepiped with sides a = 819, b = 850, c = 747, density = 846.186707, square = 3885786.000000
+Sphere with radius = 557, density = 324.045532, square = 3898704.000000
+Parallelepiped with sides a = 974, b = 616, c = 854, density = 100.741600, square = 3915688.000000
+Sphere with radius = 559, density = 665.028870, square = 3926752.000000
+Parallelepiped with sides a = 581, b = 933, c = 941, density = 540.208130, square = 3933494.000000
+Sphere with radius = 567, density = 793.877991, square = 4039950.000000
+Sphere with radius = 568, density = 586.016418, square = 4054212.750000
+Sphere with radius = 569, density = 559.801025, square = 4068500.750000
+Sphere with radius = 574, density = 340.464478, square = 4140317.500000
+Sphere with radius = 574, density = 933.072937, square = 4140317.500000
+Parallelepiped with sides a = 734, b = 940, c = 835, density = 833.094299, square = 4175500.000000
+Sphere with radius = 577, density = 681.325745, square = 4183709.250000
+Sphere with radius = 577, density = 265.449982, square = 4183709.250000
+Sphere with radius = 579, density = 269.936218, square = 4212762.500000
+Sphere with radius = 581, density = 398.693817, square = 4241916.500000
+Sphere with radius = 582, density = 614.520691, square = 4256531.500000
+Sphere with radius = 582, density = 699.484253, square = 4256531.500000
+Sphere with radius = 583, density = 155.735947, square = 4271171.000000
+Parallelepiped with sides a = 946, b = 736, c = 862, density = 494.308289, square = 4292280.000000
+Sphere with radius = 587, density = 126.407669, square = 4329982.000000
+Sphere with radius = 588, density = 825.586731, square = 4344747.000000
+Sphere with radius = 590, density = 718.253113, square = 4374353.500000
+Sphere with radius = 590, density = 861.262878, square = 4374353.500000
+Sphere with radius = 592, density = 549.943542, square = 4404060.500000
+Sphere with radius = 593, density = 495.101776, square = 4418951.500000
+Sphere with radius = 596, density = 594.470032, square = 4463776.000000
+Sphere with radius = 596, density = 345.561096, square = 4463776.000000
+Sphere with radius = 599, density = 519.852295, square = 4508826.500000
+Sphere with radius = 603, density = 811.914429, square = 4569245.500000
+Sphere with radius = 604, density = 769.005432, square = 4584413.000000
+Sphere with radius = 605, density = 806.909363, square = 4599606.000000
+Sphere with radius = 606, density = 664.082764, square = 4614823.500000
+Sphere with radius = 607, density = 306.711029, square = 4630066.500000
+Parallelepiped with sides a = 999, b = 842, c = 845, density = 705.496399, square = 4793606.000000
+Parallelepiped with sides a = 864, b = 971, c = 854, density = 377.056183, square = 4812068.000000
+Sphere with radius = 620, density = 672.627930, square = 4830513.000000
+Sphere with radius = 620, density = 206.884979, square = 4830513.000000
+Sphere with radius = 621, density = 833.552063, square = 4846107.500000
+Sphere with radius = 624, density = 371.501831, square = 4893043.000000
+Sphere with radius = 625, density = 260.963776, square = 4908738.500000
+Sphere with radius = 625, density = 922.940735, square = 4908738.500000
+Sphere with radius = 627, density = 54.292427, square = 4940204.500000
+Sphere with radius = 629, density = 478.041931, square = 4971771.500000
+Sphere with radius = 634, density = 106.723228, square = 5051128.000000
+Sphere with radius = 634, density = 999.206543, square = 5051128.000000
+Sphere with radius = 634, density = 414.197205, square = 5051128.000000
+Sphere with radius = 638, density = 397.564636, square = 5115066.000000
+Sphere with radius = 639, density = 842.738098, square = 5131113.000000
+Sphere with radius = 642, density = 494.979706, square = 5179405.500000
+Sphere with radius = 648, density = 76.967682, square = 5276669.500000
+Sphere with radius = 649, density = 800.103760, square = 5292968.000000
+Sphere with radius = 654, density = 159.642319, square = 5374838.000000
+Sphere with radius = 657, density = 644.795044, square = 5424261.500000
+Sphere with radius = 657, density = 379.711304, square = 5424261.500000
+Sphere with radius = 664, density = 677.541443, square = 5540462.500000
+Sphere with radius = 667, density = 601.672424, square = 5590640.000000
+Sphere with radius = 667, density = 207.190155, square = 5590640.000000
+Sphere with radius = 668, density = 188.177124, square = 5607416.000000
+Sphere with radius = 668, density = 791.833252, square = 5607416.000000
+Sphere with radius = 670, density = 68.056274, square = 5641044.000000
+Sphere with radius = 673, density = 786.278870, square = 5691673.500000
+Sphere with radius = 674, density = 863.673828, square = 5708600.500000
+Sphere with radius = 674, density = 655.934326, square = 5708600.500000
+Sphere with radius = 678, density = 825.952942, square = 5776559.500000
+Sphere with radius = 680, density = 608.569580, square = 5810690.000000
+Sphere with radius = 683, density = 175.695053, square = 5862073.500000
+Sphere with radius = 685, density = 647.572266, square = 5896455.500000
+Sphere with radius = 686, density = 699.057007, square = 5913683.500000
+Sphere with radius = 688, density = 997.497498, square = 5948216.000000
+Sphere with radius = 689, density = 419.934692, square = 5965520.000000
+Sphere with radius = 690, density = 213.965271, square = 5982849.000000
+Sphere with radius = 690, density = 426.374084, square = 5982849.000000
+Sphere with radius = 691, density = 363.841675, square = 6000203.000000
+Sphere with radius = 691, density = 86.550491, square = 6000203.000000
+Sphere with radius = 693, density = 896.664307, square = 6034987.000000
+Sphere with radius = 695, density = 777.459045, square = 6069871.000000
+Sphere with radius = 698, density = 502.548309, square = 6122386.000000
+Sphere with radius = 698, density = 356.730865, square = 6122386.000000
+Sphere with radius = 703, density = 847.590576, square = 6210413.500000
+Sphere with radius = 705, density = 939.573364, square = 6245800.500000
+Sphere with radius = 707, density = 230.109558, square = 6281288.000000
+Sphere with radius = 707, density = 651.722778, square = 6281288.000000
+Sphere with radius = 708, density = 480.971710, square = 6299069.000000
+Sphere with radius = 710, density = 624.896973, square = 6334707.500000
+Sphere with radius = 714, density = 969.450989, square = 6406285.500000
+Sphere with radius = 716, density = 841.761536, square = 6442225.500000
+Sphere with radius = 721, density = 873.256653, square = 6532514.500000
+Sphere with radius = 725, density = 715.353882, square = 6605198.500000
+Sphere with radius = 728, density = 345.591614, square = 6659975.500000
+Sphere with radius = 732, density = 277.687927, square = 6733363.000000
+Sphere with radius = 734, density = 334.025085, square = 6770207.500000
+Sphere with radius = 739, density = 690.084534, square = 6862759.000000
+Sphere with radius = 739, density = 754.844788, square = 6862759.000000
+Sphere with radius = 747, density = 382.274841, square = 7012148.000000
+Sphere with radius = 747, density = 926.877625, square = 7012148.000000
+Sphere with radius = 747, density = 956.480591, square = 7012148.000000
+Sphere with radius = 748, density = 239.967041, square = 7030934.500000
+Sphere with radius = 752, density = 901.303162, square = 7106333.000000
+Sphere with radius = 761, density = 22.553179, square = 7277449.000000
+Sphere with radius = 761, density = 584.917725, square = 7277449.000000
+Sphere with radius = 764, density = 103.885010, square = 7334940.500000
+Sphere with radius = 766, density = 691.702026, square = 7373393.500000
+Sphere with radius = 774, density = 644.795044, square = 7528211.000000
+Sphere with radius = 776, density = 225.226593, square = 7567167.000000
+Sphere with radius = 777, density = 199.865723, square = 7586682.500000
+Sphere with radius = 781, density = 606.128113, square = 7664996.000000
+Sphere with radius = 784, density = 409.314240, square = 7723995.000000
+Sphere with radius = 784, density = 453.657654, square = 7723995.000000
+Sphere with radius = 791, density = 869.441833, square = 7862539.500000
+Sphere with radius = 796, density = 977.263733, square = 7962253.500000
+Sphere with radius = 796, density = 705.832092, square = 7962253.500000
+Sphere with radius = 796, density = 775.627930, square = 7962253.500000
+Sphere with radius = 804, density = 22.400585, square = 8123103.000000
+Sphere with radius = 807, density = 442.396301, square = 8183836.500000
+Sphere with radius = 810, density = 355.571167, square = 8244796.000000
+Sphere with radius = 811, density = 640.125732, square = 8265166.000000
+Sphere with radius = 812, density = 788.537231, square = 8285561.000000
+Sphere with radius = 814, density = 914.273499, square = 8326427.000000
+Sphere with radius = 816, density = 576.036865, square = 8367393.500000
+Sphere with radius = 816, density = 444.563141, square = 8367393.500000
+Sphere with radius = 817, density = 143.620102, square = 8387914.000000
+Sphere with radius = 817, density = 288.277832, square = 8387914.000000
+Sphere with radius = 823, density = 995.635864, square = 8511567.000000
+Sphere with radius = 823, density = 174.657425, square = 8511567.000000
+Sphere with radius = 828, density = 812.738403, square = 8615303.000000
+Sphere with radius = 829, density = 615.894043, square = 8636125.000000
+Sphere with radius = 830, density = 170.628983, square = 8656973.000000
+Sphere with radius = 831, density = 949.125671, square = 8677845.000000
+Sphere with radius = 833, density = 687.002197, square = 8719666.000000
+Sphere with radius = 833, density = 639.179688, square = 8719666.000000
+Sphere with radius = 841, density = 22.797327, square = 8887955.000000
+Sphere with radius = 843, density = 848.109375, square = 8930279.000000
+Sphere with radius = 845, density = 662.129578, square = 8972703.000000
+Sphere with radius = 846, density = 16.418959, square = 8993953.000000
+Sphere with radius = 853, density = 202.185120, square = 9143404.000000
+Sphere with radius = 855, density = 974.639099, square = 9186331.000000
+Sphere with radius = 856, density = 911.923584, square = 9207832.000000
+Sphere with radius = 856, density = 591.296143, square = 9207832.000000
+Sphere with radius = 863, density = 129.245880, square = 9359043.000000
+Sphere with radius = 864, density = 74.282051, square = 9380745.000000
+Sphere with radius = 867, density = 8.087405, square = 9446003.000000
+Sphere with radius = 868, density = 166.295364, square = 9467805.000000
+Sphere with radius = 871, density = 913.541077, square = 9533364.000000
+Sphere with radius = 873, density = 478.316589, square = 9577195.000000
+Sphere with radius = 879, density = 892.849487, square = 9709293.000000
+Sphere with radius = 879, density = 919.675293, square = 9709293.000000
+Sphere with radius = 884, density = 201.696823, square = 9820066.000000
+Sphere with radius = 884, density = 0.579852, square = 9820066.000000
+Sphere with radius = 885, density = 34.882656, square = 9842296.000000
+Sphere with radius = 887, density = 836.451294, square = 9886831.000000
+Sphere with radius = 892, density = 358.195740, square = 9998609.000000
+Sphere with radius = 894, density = 723.380249, square = 10043496.000000
+Sphere with radius = 902, density = 867.000366, square = 10224049.000000
+Sphere with radius = 902, density = 157.170319, square = 10224049.000000
+Sphere with radius = 904, density = 73.610641, square = 10269439.000000
+Sphere with radius = 905, density = 972.319702, square = 10292172.000000
+Sphere with radius = 909, density = 371.105072, square = 10383353.000000
+Sphere with radius = 911, density = 100.650047, square = 10429095.000000
+Sphere with radius = 913, density = 23.468733, square = 10474937.000000
+Sphere with radius = 913, density = 79.378647, square = 10474937.000000
+Sphere with radius = 919, density = 311.593994, square = 10613067.000000
+Sphere with radius = 919, density = 381.420319, square = 10613067.000000
+Sphere with radius = 927, density = 66.927094, square = 10798647.000000
+Sphere with radius = 927, density = 383.098846, square = 10798647.000000
+Sphere with radius = 928, density = 566.911804, square = 10821957.000000
+Sphere with radius = 929, density = 701.254333, square = 10845293.000000
+Sphere with radius = 935, density = 924.863403, square = 10985835.000000
+Sphere with radius = 937, density = 427.198090, square = 11032884.000000
+Sphere with radius = 943, density = 584.826172, square = 11174633.000000
+Sphere with radius = 945, density = 462.111267, square = 11222083.000000
+Sphere with radius = 945, density = 254.707474, square = 11222083.000000
+Sphere with radius = 947, density = 833.948792, square = 11269634.000000
+Sphere with radius = 950, density = 524.033325, square = 11341149.000000
+Sphere with radius = 953, density = 659.871216, square = 11412891.000000
+Sphere with radius = 957, density = 200.018311, square = 11508898.000000
+Sphere with radius = 958, density = 445.356598, square = 11532963.000000
+Sphere with radius = 959, density = 422.223572, square = 11557052.000000
+Sphere with radius = 959, density = 831.659912, square = 11557052.000000
+Sphere with radius = 961, density = 41.016876, square = 11605307.000000
+Sphere with radius = 966, density = 610.827942, square = 11726384.000000
+Sphere with radius = 967, density = 80.446793, square = 11750675.000000
+Sphere with radius = 968, density = 92.226936, square = 11774991.000000
+Sphere with radius = 970, density = 642.445129, square = 11823698.000000
+Sphere with radius = 970, density = 749.351501, square = 11823698.000000
+Sphere with radius = 981, density = 796.716187, square = 12093385.000000
+Sphere with radius = 981, density = 128.543961, square = 12093385.000000
+Sphere with radius = 984, density = 425.702698, square = 12167464.000000
+Sphere with radius = 986, density = 618.274475, square = 12216975.000000
+Sphere with radius = 989, density = 675.618774, square = 12291431.000000
+Sphere with radius = 991, density = 595.568726, square = 12341194.000000
+Sphere with radius = 991, density = 948.606812, square = 12341194.000000
+Sphere with radius = 992, density = 756.859009, square = 12366113.000000
+Sphere with radius = 1000, density = 795.526001, square = 12566371.000000

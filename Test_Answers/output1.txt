@@ -1,0 +1,1 @@
+Tetrahedron with side = 15, density = 200.149994, square = 389.711426
