@@ -1,0 +1,3 @@
+C:/Users/Timur/Labs_3semester/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/Sakhabutdinov_ErnestHW2.dir
+C:/Users/Timur/Labs_3semester/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Timur/Labs_3semester/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
