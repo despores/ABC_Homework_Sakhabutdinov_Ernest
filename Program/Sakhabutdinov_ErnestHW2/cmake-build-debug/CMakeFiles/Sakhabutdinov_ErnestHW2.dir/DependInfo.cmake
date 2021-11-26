@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Timur/Labs_3semester/Sakhabutdinov_ErnestHW2/Container.cpp" "C:/Users/Timur/Labs_3semester/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/Sakhabutdinov_ErnestHW2.dir/Container.cpp.obj"
-  "C:/Users/Timur/Labs_3semester/Sakhabutdinov_ErnestHW2/Cube.cpp" "C:/Users/Timur/Labs_3semester/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/Sakhabutdinov_ErnestHW2.dir/Cube.cpp.obj"
-  "C:/Users/Timur/Labs_3semester/Sakhabutdinov_ErnestHW2/RightThetreadare.cpp" "C:/Users/Timur/Labs_3semester/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/Sakhabutdinov_ErnestHW2.dir/RightThetreadare.cpp.obj"
-  "C:/Users/Timur/Labs_3semester/Sakhabutdinov_ErnestHW2/Sphere.cpp" "C:/Users/Timur/Labs_3semester/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/Sakhabutdinov_ErnestHW2.dir/Sphere.cpp.obj"
-  "C:/Users/Timur/Labs_3semester/Sakhabutdinov_ErnestHW2/main.cpp" "C:/Users/Timur/Labs_3semester/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/Sakhabutdinov_ErnestHW2.dir/main.cpp.obj"
+  "/mnt/c/Users/Ernest/Documents/HW2_Ernest_Sakhabutdinov/Program/Sakhabutdinov_ErnestHW2/Container.cpp" "/mnt/c/Users/Ernest/Documents/HW2_Ernest_Sakhabutdinov/Program/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/Sakhabutdinov_ErnestHW2.dir/Container.cpp.o"
+  "/mnt/c/Users/Ernest/Documents/HW2_Ernest_Sakhabutdinov/Program/Sakhabutdinov_ErnestHW2/Cube.cpp" "/mnt/c/Users/Ernest/Documents/HW2_Ernest_Sakhabutdinov/Program/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/Sakhabutdinov_ErnestHW2.dir/Cube.cpp.o"
+  "/mnt/c/Users/Ernest/Documents/HW2_Ernest_Sakhabutdinov/Program/Sakhabutdinov_ErnestHW2/RightThetreadare.cpp" "/mnt/c/Users/Ernest/Documents/HW2_Ernest_Sakhabutdinov/Program/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/Sakhabutdinov_ErnestHW2.dir/RightThetreadare.cpp.o"
+  "/mnt/c/Users/Ernest/Documents/HW2_Ernest_Sakhabutdinov/Program/Sakhabutdinov_ErnestHW2/Sphere.cpp" "/mnt/c/Users/Ernest/Documents/HW2_Ernest_Sakhabutdinov/Program/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/Sakhabutdinov_ErnestHW2.dir/Sphere.cpp.o"
+  "/mnt/c/Users/Ernest/Documents/HW2_Ernest_Sakhabutdinov/Program/Sakhabutdinov_ErnestHW2/main.cpp" "/mnt/c/Users/Ernest/Documents/HW2_Ernest_Sakhabutdinov/Program/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/Sakhabutdinov_ErnestHW2.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

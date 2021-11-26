@@ -1,13 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Sakhabutdinov_ErnestHW2.dir/Container.cpp.obj"
-  "CMakeFiles/Sakhabutdinov_ErnestHW2.dir/Cube.cpp.obj"
-  "CMakeFiles/Sakhabutdinov_ErnestHW2.dir/RightThetreadare.cpp.obj"
-  "CMakeFiles/Sakhabutdinov_ErnestHW2.dir/Sphere.cpp.obj"
-  "CMakeFiles/Sakhabutdinov_ErnestHW2.dir/main.cpp.obj"
-  "Sakhabutdinov_ErnestHW2.exe"
-  "Sakhabutdinov_ErnestHW2.exe.manifest"
+  "CMakeFiles/Sakhabutdinov_ErnestHW2.dir/Container.cpp.o"
+  "CMakeFiles/Sakhabutdinov_ErnestHW2.dir/Cube.cpp.o"
+  "CMakeFiles/Sakhabutdinov_ErnestHW2.dir/RightThetreadare.cpp.o"
+  "CMakeFiles/Sakhabutdinov_ErnestHW2.dir/Sphere.cpp.o"
+  "CMakeFiles/Sakhabutdinov_ErnestHW2.dir/main.cpp.o"
+  "Sakhabutdinov_ErnestHW2"
   "Sakhabutdinov_ErnestHW2.pdb"
-  "libSakhabutdinov_ErnestHW2.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
