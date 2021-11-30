@@ -1,3 +1,0 @@
-Parallelepiped with sides a = 1, b = 2, c = 3, density = 15.000000, square = 22.000000
-Sphere with radius = 20, density = 159.350006, square = 5026.548340
-Tetrahedron with side = 180, density = 999.900024, square = 56118.445312
