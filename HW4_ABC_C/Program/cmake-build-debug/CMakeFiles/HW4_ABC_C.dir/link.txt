@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/HW4_ABC_C.dir/main.c.o CMakeFiles/HW4_ABC_C.dir/Figure.c.o CMakeFiles/HW4_ABC_C.dir/Tetrahedron.c.o CMakeFiles/HW4_ABC_C.dir/Sphere.c.o CMakeFiles/HW4_ABC_C.dir/Parallelepiped.c.o CMakeFiles/HW4_ABC_C.dir/RandomGenerator.c.o CMakeFiles/HW4_ABC_C.dir/Container.c.o -o HW4_ABC_C 
