@@ -1,3 +1,0 @@
-/mnt/c/Users/Ernest/Documents/HW2_Ernest_Sakhabutdinov/Program/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Ernest/Documents/HW2_Ernest_Sakhabutdinov/Program/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Ernest/Documents/HW2_Ernest_Sakhabutdinov/Program/Sakhabutdinov_ErnestHW2/cmake-build-debug/CMakeFiles/Sakhabutdinov_ErnestHW2.dir
