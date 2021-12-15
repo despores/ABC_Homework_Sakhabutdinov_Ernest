@@ -1,0 +1,3 @@
+/mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug/CMakeFiles/ABC_HW5.dir

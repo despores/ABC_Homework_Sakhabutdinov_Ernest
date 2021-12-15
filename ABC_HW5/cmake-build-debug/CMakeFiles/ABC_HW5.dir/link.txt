@@ -1,0 +1,1 @@
+/usr/bin/c++ -pthread -g CMakeFiles/ABC_HW5.dir/main.cpp.o CMakeFiles/ABC_HW5.dir/Workplace.cpp.o -o ABC_HW5 

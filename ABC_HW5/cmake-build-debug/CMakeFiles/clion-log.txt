@@ -1,0 +1,4 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /bin/sh -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug && /usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G 'CodeBlocks - Unix Makefiles' /mnt/c/Users/Ernest/CLionProjects/ABC_HW5"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug
