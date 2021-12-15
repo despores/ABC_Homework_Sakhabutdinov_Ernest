@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/Program.h
+
+/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/Workplace.cpp
+Workplace.h
+/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/Workplace.h
+fstream
+-
+unistd.h
+-
+iostream
+-
+
+/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/Workplace.h
+queue
+-
+Program.h
+/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/Program.h
+mutex
+-
+thread
+-
+condition_variable
+-
+
+/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/main.cpp
+fstream
+-
+thread
+-
+iostream
+-
+cstring
+-
+Workplace.h
+/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/Workplace.h
+

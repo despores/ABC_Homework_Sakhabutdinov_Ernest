@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Users/Ernest/CLionProjects/ABC_HW5/Workplace.cpp" "/mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug/CMakeFiles/ABC_HW5.dir/Workplace.cpp.o"
-  "/mnt/c/Users/Ernest/CLionProjects/ABC_HW5/main.cpp" "/mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug/CMakeFiles/ABC_HW5.dir/main.cpp.o"
+  "/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/Workplace.cpp" "/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/cmake-build-debug/CMakeFiles/ABC_HW5.dir/Workplace.cpp.o"
+  "/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/main.cpp" "/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/cmake-build-debug/CMakeFiles/ABC_HW5.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

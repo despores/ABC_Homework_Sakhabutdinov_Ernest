@@ -53,10 +53,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Users/Ernest/CLionProjects/ABC_HW5
+CMAKE_SOURCE_DIR = /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug
+CMAKE_BINARY_DIR = /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ABC_HW5.dir/depend.make
@@ -68,29 +68,29 @@ include CMakeFiles/ABC_HW5.dir/flags.make
 
 CMakeFiles/ABC_HW5.dir/main.cpp.o: CMakeFiles/ABC_HW5.dir/flags.make
 CMakeFiles/ABC_HW5.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ABC_HW5.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ABC_HW5.dir/main.cpp.o -c /mnt/c/Users/Ernest/CLionProjects/ABC_HW5/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ABC_HW5.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ABC_HW5.dir/main.cpp.o -c /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/main.cpp
 
 CMakeFiles/ABC_HW5.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ABC_HW5.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Ernest/CLionProjects/ABC_HW5/main.cpp > CMakeFiles/ABC_HW5.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/main.cpp > CMakeFiles/ABC_HW5.dir/main.cpp.i
 
 CMakeFiles/ABC_HW5.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ABC_HW5.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Ernest/CLionProjects/ABC_HW5/main.cpp -o CMakeFiles/ABC_HW5.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/main.cpp -o CMakeFiles/ABC_HW5.dir/main.cpp.s
 
 CMakeFiles/ABC_HW5.dir/Workplace.cpp.o: CMakeFiles/ABC_HW5.dir/flags.make
 CMakeFiles/ABC_HW5.dir/Workplace.cpp.o: ../Workplace.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ABC_HW5.dir/Workplace.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ABC_HW5.dir/Workplace.cpp.o -c /mnt/c/Users/Ernest/CLionProjects/ABC_HW5/Workplace.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ABC_HW5.dir/Workplace.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ABC_HW5.dir/Workplace.cpp.o -c /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/Workplace.cpp
 
 CMakeFiles/ABC_HW5.dir/Workplace.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ABC_HW5.dir/Workplace.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Ernest/CLionProjects/ABC_HW5/Workplace.cpp > CMakeFiles/ABC_HW5.dir/Workplace.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/Workplace.cpp > CMakeFiles/ABC_HW5.dir/Workplace.cpp.i
 
 CMakeFiles/ABC_HW5.dir/Workplace.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ABC_HW5.dir/Workplace.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Ernest/CLionProjects/ABC_HW5/Workplace.cpp -o CMakeFiles/ABC_HW5.dir/Workplace.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/Workplace.cpp -o CMakeFiles/ABC_HW5.dir/Workplace.cpp.s
 
 # Object files for target ABC_HW5
 ABC_HW5_OBJECTS = \
@@ -104,7 +104,7 @@ ABC_HW5: CMakeFiles/ABC_HW5.dir/main.cpp.o
 ABC_HW5: CMakeFiles/ABC_HW5.dir/Workplace.cpp.o
 ABC_HW5: CMakeFiles/ABC_HW5.dir/build.make
 ABC_HW5: CMakeFiles/ABC_HW5.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ABC_HW5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ABC_HW5"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ABC_HW5.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -116,6 +116,6 @@ CMakeFiles/ABC_HW5.dir/clean:
 .PHONY : CMakeFiles/ABC_HW5.dir/clean
 
 CMakeFiles/ABC_HW5.dir/depend:
-	cd /mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/Ernest/CLionProjects/ABC_HW5 /mnt/c/Users/Ernest/CLionProjects/ABC_HW5 /mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug /mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug /mnt/c/Users/Ernest/CLionProjects/ABC_HW5/cmake-build-debug/CMakeFiles/ABC_HW5.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5 /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5 /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/cmake-build-debug /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/cmake-build-debug /mnt/c/Users/Ernest/ABC_Homework_Sakhabutdinov_Ernest/ABC_HW5/cmake-build-debug/CMakeFiles/ABC_HW5.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ABC_HW5.dir/depend
 
